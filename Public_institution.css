@@ -1,735 +1,735 @@
 @font-face {
-    font-family: 'GangwonEduAll_Light'; /* °­¿ø±³À°¸ğµÎ+Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/GangwonEdu/GangwonEduAll_Light.woff2') format('woff2');
+    font-family: 'GangwonEduAll_Light'; /* ê°•ì›êµìœ¡ëª¨ë‘+Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduAll_Light.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GangwonEduAll_Bold'; /* °­¿ø±³À°¸ğµÎ+Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/GangwonEdu/GangwonEduAll_Bold.woff2') format('woff2');
+    font-family: 'GangwonEduAll_Bold'; /* ê°•ì›êµìœ¡ëª¨ë‘+Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduAll_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GangwonEduSaeeum_Medium'; /* °­¿ø±³À°»õÀ½ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/GangwonEdu/GangwonEduSaeeum_Medium.woff2') format('woff2');
+    font-family: 'GangwonEduSaeeum_Medium'; /* ê°•ì›êµìœ¡ìƒˆìŒ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduSaeeum_Medium.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GangwonEduPower'; /* °­¿ø±³À°Æ°Æ° */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/GangwonEdu/GangwonEduPower.woff2') format('woff2');
+    font-family: 'GangwonEduPower'; /* ê°•ì›êµìœ¡íŠ¼íŠ¼ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduPower.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GangwonEduHyeonokT_Medium'; /* °­¿ø±³À°Çö¿Á»ù */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/GangwonEdu/GangwonEduHyeonokT_Medium.woff2') format('woff2');
+    font-family: 'GangwonEduHyeonokT_Medium'; /* ê°•ì›êµìœ¡í˜„ì˜¥ìƒ˜ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduHyeonokT_Medium.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GANGWON_STATE'; /* °­¿øÆ¯º°ÀÚÄ¡µµÃ¼-SemiBold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gangwon-do/GANGWON_STATE.woff2') format('woff2');
+    font-family: 'GANGWON_STATE'; /* ê°•ì›íŠ¹ë³„ìì¹˜ë„ì²´-SemiBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gangwon-do/GANGWON_STATE.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'ROKAF_Slab_Serif_Medium'; /* °­ÇÑ°ø±ºÃ¼ Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/ROKAF/ROKAF_Slab_Serif_Medium.woff2') format('woff2');
+    font-family: 'ROKAF_Slab_Serif_Medium'; /* ê°•í•œê³µêµ°ì²´ Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ROKAF/ROKAF_Slab_Serif_Medium.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'ROKAF_Slab_Serif_Bold'; /* °­ÇÑ°ø±ºÃ¼ Serif Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/ROKAF/ROKAF_Slab_Serif_Bold.woff2') format('woff2');
+    font-family: 'ROKAF_Slab_Serif_Bold'; /* ê°•í•œê³µêµ°ì²´ Serif Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ROKAF/ROKAF_Slab_Serif_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'ROKAF_Sans_Medium'; /* ¹Ù¸¥°ø±ºÃ¼ Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/ROKAF/ROKAF_Sans_Medium.woff2') format('woff2');
+    font-family: 'ROKAF_Sans_Medium'; /* ë°”ë¥¸ê³µêµ°ì²´ Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ROKAF/ROKAF_Sans_Medium.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'ROKAF_Sans_Bold'; /* ¹Ù¸¥°ø±ºÃ¼ Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/ROKAF/ROKAF_Sans_Bold.woff2') format('woff2');
+    font-family: 'ROKAF_Sans_Bold'; /* ë°”ë¥¸ê³µêµ°ì²´ Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ROKAF/ROKAF_Sans_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GyeonggiTitle_Light'; /* °æ±âÃµ³âÁ¦¸ñ_Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gyeonggi-do/GyeonggiTitle_Light.woff2') format('woff2');
+    font-family: 'GyeonggiTitle_Light'; /* ê²½ê¸°ì²œë…„ì œëª©_Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gyeonggi-do/GyeonggiTitle_Light.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GyeonggiTitle_Medium'; /* °æ±âÃµ³âÁ¦¸ñ_Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gyeonggi-do/GyeonggiTitle_Medium.woff2') format('woff2');
+    font-family: 'GyeonggiTitle_Medium'; /* ê²½ê¸°ì²œë…„ì œëª©_Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gyeonggi-do/GyeonggiTitle_Medium.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GyeonggiTitle_Bold'; /* °æ±âÃµ³âÁ¦¸ñ_Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gyeonggi-do/GyeonggiTitle_Bold.woff2') format('woff2');
+    font-family: 'GyeonggiTitle_Bold'; /* ê²½ê¸°ì²œë…„ì œëª©_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gyeonggi-do/GyeonggiTitle_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GyeonggiTitleV_Bold'; /* °æ±âÃµ³âÁ¦¸ñV_Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gyeonggi-do/GyeonggiTitleV_Bold.woff2') format('woff2');
+    font-family: 'GyeonggiTitleV_Bold'; /* ê²½ê¸°ì²œë…„ì œëª©V_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gyeonggi-do/GyeonggiTitleV_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GyeonggiBatang_Regular'; /* °æ±âÃµ³â¹ÙÅÁ_Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gyeonggi-do/GyeonggiBatang_Regular.woff2') format('woff2');
+    font-family: 'GyeonggiBatang_Regular'; /* ê²½ê¸°ì²œë…„ë°”íƒ•_Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gyeonggi-do/GyeonggiBatang_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GyeonggiBatang_Bold'; /* °æ±âÃµ³â¹ÙÅÁ_Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gyeonggi-do/GyeonggiBatang_Bold.woff2') format('woff2');
+    font-family: 'GyeonggiBatang_Bold'; /* ê²½ê¸°ì²œë…„ë°”íƒ•_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gyeonggi-do/GyeonggiBatang_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Goryeong_Strawberry'; /* °í·Éµş±âÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Goryeong-gun/Goryeong_Strawberry.woff2') format('woff2');
+    font-family: 'Goryeong_Strawberry'; /* ê³ ë ¹ë”¸ê¸°ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goryeong-gun/Goryeong_Strawberry.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Gosanja'; /* °í»êÀÚ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/NGII/Gosanja.woff2') format('woff2');
+    font-family: 'Gosanja'; /* ê³ ì‚°ì */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NGII/Gosanja.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GoyangDeogyang_B'; /* °í¾ç´ö¾ç B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Goyang-si/GoyangDeogyang_B.woff2') format('woff2');
+    font-family: 'GoyangDeogyang_B'; /* ê³ ì–‘ë•ì–‘ B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goyang-si/GoyangDeogyang_B.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GoyangDeogyang_EB'; /* °í¾ç´ö¾ç EB */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Goyang-si/GoyangDeogyang_EB.woff2') format('woff2');
+    font-family: 'GoyangDeogyang_EB'; /* ê³ ì–‘ë•ì–‘ EB */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goyang-si/GoyangDeogyang_EB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GoyangIlsan_L'; /* °í¾çÀÏ»ê L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Goyang-si/GoyangIlsan_L.woff2') format('woff2');
+    font-family: 'GoyangIlsan_L'; /* ê³ ì–‘ì¼ì‚° L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goyang-si/GoyangIlsan_L.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GoyangIlsan_R'; /* °í¾çÀÏ»ê R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Goyang-si/GoyangIlsan_R.woff2') format('woff2');
+    font-family: 'GoyangIlsan_R'; /* ê³ ì–‘ì¼ì‚° R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goyang-si/GoyangIlsan_R.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Gwangyang_Touching'; /* ±¤¾ç°¨µ¿Ã¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gwangyang-si/Gwangyang_Touching.woff2') format('woff2');
+    font-family: 'Gwangyang_Touching'; /* ê´‘ì–‘ê°ë™ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gwangyang-si/Gwangyang_Touching.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Gwangyang_Sunshine_Regular'; /* ±¤¾çÇŞ»ìÃ¼_Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gwangyang-si/Gwangyang_Sunshine_Regular.woff2') format('woff2');
+    font-family: 'Gwangyang_Sunshine_Regular'; /* ê´‘ì–‘í–‡ì‚´ì²´_Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gwangyang-si/Gwangyang_Sunshine_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Gwangyang_Sunshine_Bold'; /* ±¤¾çÇŞ»ìÃ¼_Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gwangyang-si/Gwangyang_Sunshine_Bold.woff2') format('woff2');
+    font-family: 'Gwangyang_Sunshine_Bold'; /* ê´‘ì–‘í–‡ì‚´ì²´_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gwangyang-si/Gwangyang_Sunshine_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KNPS_Kkomi'; /* ±¹¸³°ø¿ø ²¿¹Ì */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/KNPS/KNPS_Kkomi.woff2') format('woff2');
+    font-family: 'KNPS_Kkomi'; /* êµ­ë¦½ê³µì› ê¼¬ë¯¸ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KNPS/KNPS_Kkomi.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KNPS_Bandali'; /* ±¹¸³°ø¿ø ¹İ´ŞÀÌ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/KNPS/KNPS_Bandali.woff2') format('woff2');
+    font-family: 'KNPS_Bandali'; /* êµ­ë¦½ê³µì› ë°˜ë‹¬ì´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KNPS/KNPS_Bandali.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MuseumClassic_Light'; /* ±¹¸³¹Ú¹°°ü¹®È­Àç´ÜÅ¬·¡½ÄL */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/NMF/MuseumClassic_Light.woff2') format('woff2');
+    font-family: 'MuseumClassic_Light'; /* êµ­ë¦½ë°•ë¬¼ê´€ë¬¸í™”ì¬ë‹¨í´ë˜ì‹L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NMF/MuseumClassic_Light.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MuseumClassic_Medium'; /* ±¹¸³¹Ú¹°°ü¹®È­Àç´ÜÅ¬·¡½ÄM */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/NMF/MuseumClassic_Medium.woff2') format('woff2');
+    font-family: 'MuseumClassic_Medium'; /* êµ­ë¦½ë°•ë¬¼ê´€ë¬¸í™”ì¬ë‹¨í´ë˜ì‹M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NMF/MuseumClassic_Medium.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MuseumClassic_Bold'; /* ±¹¸³¹Ú¹°°ü¹®È­Àç´ÜÅ¬·¡½ÄB */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/NMF/MuseumClassic_Bold.woff2') format('woff2');
+    font-family: 'MuseumClassic_Bold'; /* êµ­ë¦½ë°•ë¬¼ê´€ë¬¸í™”ì¬ë‹¨í´ë˜ì‹B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NMF/MuseumClassic_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'NL'; /* ±¹¸³Áß¾Óµµ¼­°ü±ÛÀÚÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/NL/NL.woff2') format('woff2');
+    font-family: 'NL'; /* êµ­ë¦½ì¤‘ì•™ë„ì„œê´€ê¸€ìì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NL/NL.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'NP_regular'; /* ±¹¸³¿¬±İÃ¼ regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/NP/NP_regular.woff2') format('woff2');
+    font-family: 'NP_regular'; /* êµ­ë¦½ì—°ê¸ˆì²´ regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NP/NP_regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'NP_bold'; /* ±¹¸³¿¬±İÃ¼ bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/NP/NP_bold.woff2') format('woff2');
+    font-family: 'NP_bold'; /* êµ­ë¦½ì—°ê¸ˆì²´ bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NP/NP_bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'NP_extrabold'; /* ±¹¸³¿¬±İÃ¼ extrabold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/NP/NP_extrabold.woff2') format('woff2');
+    font-family: 'NP_extrabold'; /* êµ­ë¦½ì—°ê¸ˆì²´ extrabold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NP/NP_extrabold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GimpoBatang'; /* ±èÆ÷ÆòÈ­¹ÙÅÁ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gimpo-si/GimpoBatang.woff2') format('woff2');
+    font-family: 'GimpoBatang'; /* ê¹€í¬í‰í™”ë°”íƒ• */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gimpo-si/GimpoBatang.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GimpoTitle'; /* ±èÆ÷ÆòÈ­Á¦¸ñ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gimpo-si/GimpoTitle.woff2') format('woff2');
+    font-family: 'GimpoTitle'; /* ê¹€í¬í‰í™”ì œëª© */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gimpo-si/GimpoTitle.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GimhaeGayaR'; /* ±èÇØ°¡¾ßÃ¼ R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gimhae-si/GimhaeGayaR.woff2') format('woff2');
+    font-family: 'GimhaeGayaR'; /* ê¹€í•´ê°€ì•¼ì²´ R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gimhae-si/GimhaeGayaR.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GimhaeGayaB'; /* ±èÇØ°¡¾ßÃ¼ B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gimhae-si/GimhaeGayaB.woff2') format('woff2');
+    font-family: 'GimhaeGayaB'; /* ê¹€í•´ê°€ì•¼ì²´ B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gimhae-si/GimhaeGayaB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'DalseoDarling'; /* ´Ş¼­Èú¸µÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Dalseo-gu/DalseoDarling.woff2') format('woff2');
+    font-family: 'DalseoDarling'; /* ë‹¬ì„œíë§ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Dalseo-gu/DalseoDarling.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'DalseoHealing_Medium'; /* ´Ş¼­Èú¸µÃ¼Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Dalseo-gu/DalseoHealing_Medium.woff2') format('woff2');
+    font-family: 'DalseoHealing_Medium'; /* ë‹¬ì„œíë§ì²´Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Dalseo-gu/DalseoHealing_Medium.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'DalseoHealingBold'; /* ´Ş¼­Èú¸µÃ¼Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Dalseo-gu/DalseoHealingBold.woff2') format('woff2');
+    font-family: 'DalseoHealingBold'; /* ë‹¬ì„œíë§ì²´Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Dalseo-gu/DalseoHealingBold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MapoGoldenPier'; /* Mapo±İºû³ª·ç */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Mapo-gu/MapoGoldenPier.woff2') format('woff2');
+    font-family: 'MapoGoldenPier'; /* Mapoê¸ˆë¹›ë‚˜ë£¨ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoGoldenPier.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MapoFlowerIsland'; /* Mapo²É¼¶ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Mapo-gu/MapoFlowerIsland.woff2') format('woff2');
+    font-family: 'MapoFlowerIsland'; /* Mapoê½ƒì„¬ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoFlowerIsland.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MapoDacapo'; /* Mapo´ÙÄ«Æ÷ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Mapo-gu/MapoDacapo.woff2') format('woff2');
+    font-family: 'MapoDacapo'; /* Mapoë‹¤ì¹´í¬ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoDacapo.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MapoDPP'; /* Mapo´çÀÎ¸®¹ßÀü¼Ò */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Mapo-gu/MapoDPP.woff2') format('woff2');
+    font-family: 'MapoDPP'; /* Mapoë‹¹ì¸ë¦¬ë°œì „ì†Œ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoDPP.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MapoMaponaru'; /* Mapo¸¶Æ÷³ª·ç */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Mapo-gu/MapoMaponaru.woff2') format('woff2');
+    font-family: 'MapoMaponaru'; /* Mapoë§ˆí¬ë‚˜ë£¨ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoMaponaru.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MapoBackpacking'; /* Mapo¹è³¶¿©Çà */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Mapo-gu/MapoBackpacking.woff2') format('woff2');
+    font-family: 'MapoBackpacking'; /* Mapoë°°ë‚­ì—¬í–‰ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoBackpacking.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MapoAgape'; /* Mapo¾Ö¹Î */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Mapo-gu/MapoAgape.woff2') format('woff2');
+    font-family: 'MapoAgape'; /* Mapoì• ë¯¼ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoAgape.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MapoPeacefull'; /* MapoÇÑ¾Æ¸§ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Mapo-gu/MapoPeacefull.woff2') format('woff2');
+    font-family: 'MapoPeacefull'; /* Mapoí•œì•„ë¦„ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoPeacefull.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MapoHongdaeFreedom'; /* MapoÈ«´ëÇÁ¸®´ı */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Mapo-gu/MapoHongdaeFreedom.woff2') format('woff2');
+    font-family: 'MapoHongdaeFreedom'; /* Mapoí™ëŒ€í”„ë¦¬ë¤ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoHongdaeFreedom.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MunhwajaeDolbom_Regular'; /* ¹®È­Àçµ¹º½Ã¼ Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/CHA/MunhwajaeDolbom_Regular.woff2') format('woff2');
+    font-family: 'MunhwajaeDolbom_Regular'; /* ë¬¸í™”ì¬ëŒë´„ì²´ Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/CHA/MunhwajaeDolbom_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MunhwajaeDolbom_Bold'; /* ¹®È­Àçµ¹º½Ã¼ Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/CHA/MunhwajaeDolbom_Bold.woff2') format('woff2');
+    font-family: 'MunhwajaeDolbom_Bold'; /* ë¬¸í™”ì¬ëŒë´„ì²´ Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/CHA/MunhwajaeDolbom_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MYArirang'; /* ¹Ğ¾ç¾Æ¸®¶ûÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Miryang-si/MYArirang.woff2') format('woff2');
+    font-family: 'MYArirang'; /* ë°€ì–‘ì•„ë¦¬ë‘ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Miryang-si/MYArirang.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MYArirang_gothic'; /* ¹Ğ¾ç¾Æ¸®¶û°íµñÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Miryang-si/MYArirang_gothic.woff2') format('woff2');
+    font-family: 'MYArirang_gothic'; /* ë°€ì–‘ì•„ë¦¬ë‘ê³ ë”•ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Miryang-si/MYArirang_gothic.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MYYeongnamnu'; /* ¹Ğ¾ç¿µ³²·çÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Miryang-si/MYYeongnamnu.woff2') format('woff2');
+    font-family: 'MYYeongnamnu'; /* ë°€ì–‘ì˜ë‚¨ë£¨ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Miryang-si/MYYeongnamnu.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'MYHaemalgeunSangsang'; /* ¹Ğ¾çÇØ¸¼Àº»ó»óÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Miryang-si/MYHaemalgeunSangsang.woff2') format('woff2');
+    font-family: 'MYHaemalgeunSangsang'; /* ë°€ì–‘í•´ë§‘ì€ìƒìƒì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Miryang-si/MYHaemalgeunSangsang.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'BusanFont_Provisional'; /* ºÎ»êÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Busan-si/BusanFont_Provisional.woff2') format('woff2');
+    font-family: 'BusanFont_Provisional'; /* ë¶€ì‚°ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanFont_Provisional.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Bitgoeul_Light'; /* ºû°íÀ»±¤ÁÖ_Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gwangju-si/Bitgoeul_Light.woff2') format('woff2');
+    font-family: 'Bitgoeul_Light'; /* ë¹›ê³ ì„ê´‘ì£¼_Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gwangju-si/Bitgoeul_Light.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Bitgoeul_Medium'; /* ºû°íÀ»±¤ÁÖ_Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gwangju-si/Bitgoeul_Medium.woff2') format('woff2');
+    font-family: 'Bitgoeul_Medium'; /* ë¹›ê³ ì„ê´‘ì£¼_Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gwangju-si/Bitgoeul_Medium.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Bitgoeul_Bold'; /* ºû°íÀ»±¤ÁÖ_Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Gwangju-si/Bitgoeul_Bold.woff2') format('woff2');
+    font-family: 'Bitgoeul_Bold'; /* ë¹›ê³ ì„ê´‘ì£¼_Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gwangju-si/Bitgoeul_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'SeoulNamsan_L'; /* ¼­¿ï³²»êL */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Seoul-si/SeoulNamsan_L.woff2') format('woff2');
+    font-family: 'SeoulNamsan_L'; /* ì„œìš¸ë‚¨ì‚°L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulNamsan_L.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'SeoulNamsan_M'; /* ¼­¿ï³²»êM */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Seoul-si/SeoulNamsan_M.woff2') format('woff2');
+    font-family: 'SeoulNamsan_M'; /* ì„œìš¸ë‚¨ì‚°M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulNamsan_M.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'SeoulNamsan_B'; /* ¼­¿ï³²»êB */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Seoul-si/SeoulNamsan_B.woff2') format('woff2');
+    font-family: 'SeoulNamsan_B'; /* ì„œìš¸ë‚¨ì‚°B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulNamsan_B.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'SeoulNamsan_EB'; /* ¼­¿ï³²»êEB */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Seoul-si/SeoulNamsan_EB.woff2') format('woff2');
+    font-family: 'SeoulNamsan_EB'; /* ì„œìš¸ë‚¨ì‚°EB */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulNamsan_EB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'SeoulNamsan_vert'; /* ¼­¿ï³²»êvert */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Seoul-si/SeoulNamsan_vert.woff2') format('woff2');
+    font-family: 'SeoulNamsan_vert'; /* ì„œìš¸ë‚¨ì‚°vert */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulNamsan_vert.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'SungDong_Gothic_B'; /* ¼ºµ¿°íµñ B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Seongdong-gu/SungDong_Gothic_B.woff2') format('woff2');
+    font-family: 'SungDong_Gothic_B'; /* ì„±ë™ê³ ë”• B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seongdong-gu/SungDong_Gothic_B.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'SungDong_Gothic_EB'; /* ¼ºµ¿°íµñ EB */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Seongdong-gu/SungDong_Gothic_EB.woff2') format('woff2');
+    font-family: 'SungDong_Gothic_EB'; /* ì„±ë™ê³ ë”• EB */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seongdong-gu/SungDong_Gothic_EB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'SungDong_Myungjo_R'; /* ¼ºµ¿¸íÁ¶ R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Seongdong-gu/SungDong_Myungjo_R.woff2') format('woff2');
+    font-family: 'SungDong_Myungjo_R'; /* ì„±ë™ëª…ì¡° R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seongdong-gu/SungDong_Myungjo_R.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'SejongGeulggot'; /* ¼¼Á¾±Û²ÉÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Sejong-si/SejongGeulggot.woff2') format('woff2');
+    font-family: 'SejongGeulggot'; /* ì„¸ì¢…ê¸€ê½ƒì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sejong-si/SejongGeulggot.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'SOYO_Maple_Regular'; /* ¼Ò¿ä´ÜÇ³Ã¼ Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Dongducheon-si/SOYO_Maple_Regular_TTF.woff2') format('woff2');
+    font-family: 'SOYO_Maple_Regular'; /* ì†Œìš”ë‹¨í’ì²´ Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Dongducheon-si/SOYO_Maple_Regular_TTF.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'SOYO_Maple_Bold'; /* ¼Ò¿ä´ÜÇ³Ã¼ Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Dongducheon-si/SOYO_Maple_Bold_TTF.woff2') format('woff2');
+    font-family: 'SOYO_Maple_Bold'; /* ì†Œìš”ë‹¨í’ì²´ Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Dongducheon-si/SOYO_Maple_Bold_TTF.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Suseong_Dotum'; /* ¼ö¼ºµ¸¿òÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Suseong-gu/Suseong_Dotum.woff2') format('woff2');
+    font-family: 'Suseong_Dotum'; /* ìˆ˜ì„±ë‹ì›€ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Suseong-gu/Suseong_Dotum.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Suseong_Batang'; /* ¼ö¼º¹ÙÅÁÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Suseong-gu/Suseong_Batang.woff2') format('woff2');
+    font-family: 'Suseong_Batang'; /* ìˆ˜ì„±ë°”íƒ•ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Suseong-gu/Suseong_Batang.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Suseong_Hyejeong'; /* ¼ö¼ºÇıÁ¤Ã¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Suseong-gu/Suseong_Hyejeong.woff2') format('woff2');
+    font-family: 'Suseong_Hyejeong'; /* ìˆ˜ì„±í˜œì •ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Suseong-gu/Suseong_Hyejeong.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Suncheon_R'; /* ¼øÃµR */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Suncheon-si/Suncheon_R.woff2') format('woff2');
+    font-family: 'Suncheon_R'; /* ìˆœì²œR */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Suncheon-si/Suncheon_R.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Suncheon_B'; /* ¼øÃµB */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Suncheon-si/Suncheon_B.woff2') format('woff2');
+    font-family: 'Suncheon_B'; /* ìˆœì²œB */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Suncheon-si/Suncheon_B.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'YiSunShin_Regular'; /* ÀÌ¼ø½ÅRegular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Asan-si/YiSunShin_Regular.woff2') format('woff2');
+    font-family: 'YiSunShin_Regular'; /* ì´ìˆœì‹ Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'YiSunShin_Bold'; /* ÀÌ¼ø½ÅBold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Asan-si/YiSunShin_Bold.woff2') format('woff2');
+    font-family: 'YiSunShin_Bold'; /* ì´ìˆœì‹ Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'YiSunShin_Dotum_L'; /* ÀÌ¼ø½Åµ¸¿òÃ¼L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Asan-si/YiSunShin_Dotum_L.woff2') format('woff2');
+    font-family: 'YiSunShin_Dotum_L'; /* ì´ìˆœì‹ ë‹ì›€ì²´L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Dotum_L.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'YiSunShin_Dotum_M'; /* ÀÌ¼ø½Åµ¸¿òÃ¼M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Asan-si/YiSunShin_Dotum_M.woff2') format('woff2');
+    font-family: 'YiSunShin_Dotum_M'; /* ì´ìˆœì‹ ë‹ì›€ì²´M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Dotum_M.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'YiSunShin_Dotum_B'; /* ÀÌ¼ø½Åµ¸¿òÃ¼B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Asan-si/YiSunShin_Dotum_B.woff2') format('woff2');
+    font-family: 'YiSunShin_Dotum_B'; /* ì´ìˆœì‹ ë‹ì›€ì²´B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Dotum_B.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'AndongKaturi'; /* ¾Èµ¿¾ö¸¶±îÅõ¸® */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Andong-si/AndongKaturi.woff2') format('woff2');
+    font-family: 'AndongKaturi'; /* ì•ˆë™ì—„ë§ˆê¹Œíˆ¬ë¦¬ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Andong-si/AndongKaturi.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'AndongWolyeonggyo'; /* ¾Èµ¿¿ù¿µ±³ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Andong-si/AndongWolyeonggyo.woff2') format('woff2');
+    font-family: 'AndongWolyeonggyo'; /* ì•ˆë™ì›”ì˜êµ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Andong-si/AndongWolyeonggyo.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '(1)_YangPyeong_L'; /* ¾çÆò±ºÃ¼_L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Yangpyeong-gun/YangPyeong_L.woff2') format('woff2');
+    font-family: '(1)_YangPyeong_L'; /* ì–‘í‰êµ°ì²´_L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yangpyeong-gun/YangPyeong_L.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '(2)_YangPyeong_M'; /* ¾çÆò±ºÃ¼_M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Yangpyeong-gun/YangPyeong_M.woff2') format('woff2');
+    font-family: '(2)_YangPyeong_M'; /* ì–‘í‰êµ°ì²´_M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yangpyeong-gun/YangPyeong_M.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '(3)_YangPyeong_B'; /* ¾çÆò±ºÃ¼_B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Yangpyeong-gun/YangPyeong_B.woff2') format('woff2');
+    font-family: '(3)_YangPyeong_B'; /* ì–‘í‰êµ°ì²´_B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yangpyeong-gun/YangPyeong_B.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Yeongdeok_Snow_Crab'; /* ¿µ´ö´ë°ÔÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Yeongdeok-gun/Yeongdeok_Snow_Crab.woff2') format('woff2');
+    font-family: 'Yeongdeok_Snow_Crab'; /* ì˜ë•ëŒ€ê²Œì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdeok-gun/Yeongdeok_Snow_Crab.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Yeongdeok_Sea'; /* ¿µ´ö¹Ù´ÙÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Yeongdeok-gun/Yeongdeok_Sea.woff2') format('woff2');
+    font-family: 'Yeongdeok_Sea'; /* ì˜ë•ë°”ë‹¤ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdeok-gun/Yeongdeok_Sea.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Yeongdeok_Blueroad'; /* ¿µ´öºí·ç·ÎµåÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Yeongdeok-gun/Yeongdeok_Blueroad.woff2') format('woff2');
+    font-family: 'Yeongdeok_Blueroad'; /* ì˜ë•ë¸”ë£¨ë¡œë“œì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdeok-gun/Yeongdeok_Blueroad.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Yeongdeok_Haeparang'; /* ¿µ´öÇØÆÄ¶ûÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Yeongdeok-gun/Yeongdeok_Haeparang.woff2') format('woff2');
+    font-family: 'Yeongdeok_Haeparang'; /* ì˜ë•í•´íŒŒë‘ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdeok-gun/Yeongdeok_Haeparang.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Yeongdo'; /* ¿µµµÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Yeongdo-gu/Yeongdo.woff2') format('woff2');
+    font-family: 'Yeongdo'; /* ì˜ë„ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdo-gu/Yeongdo.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Yydimibang_Bold'; /* ¿µ¾ç±º_À½½Äµğ¹Ì¹æÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Yeongyang-gun/Yydimibang_Bold.woff2') format('woff2');
+    font-family: 'Yydimibang_Bold'; /* ì˜ì–‘êµ°_ìŒì‹ë””ë¯¸ë°©ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongyang-gun/Yydimibang_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'YEONGJUPunggiGinseng'; /* ¿µÁÖÇ³±âÀÎ»ïÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Yeongju-si/YEONGJUPunggiGinseng_TTF.woff2') format('woff2');
+    font-family: 'YEONGJUPunggiGinseng'; /* ì˜ì£¼í’ê¸°ì¸ì‚¼ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongju-si/YEONGJUPunggiGinseng_TTF.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'ChusaLove'; /* Ãß»ç»ç¶û */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Yesan-gun/ChusaLove.woff2') format('woff2');
+    font-family: 'ChusaLove'; /* ì¶”ì‚¬ì‚¬ë‘ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yesan-gun/ChusaLove.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'ChusaLoveB'; /* Ãß»ç»ç¶ûBold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Yesan-gun/ChusaLoveB.woff2') format('woff2');
+    font-family: 'ChusaLoveB'; /* ì¶”ì‚¬ì‚¬ë‘Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yesan-gun/ChusaLoveB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'WandocleanseaR'; /* ¿ÏµµÃ»Á¤¹Ù´ÙÃ¼R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Wando-gun/WandocleanseaR.woff2') format('woff2');
+    font-family: 'WandocleanseaR'; /* ì™„ë„ì²­ì •ë°”ë‹¤ì²´R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wando-gun/WandocleanseaR.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'WandocleanseaB'; /* ¿ÏµµÃ»Á¤¹Ù´ÙÃ¼B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Wando-gun/WandocleanseaB.woff2') format('woff2');
+    font-family: 'WandocleanseaB'; /* ì™„ë„ì²­ì •ë°”ë‹¤ì²´B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wando-gun/WandocleanseaB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'WandohopeR'; /* ¿ÏµµÈñ¸ÁÃ¼R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Wando-gun/WandohopeR.woff2') format('woff2');
+    font-family: 'WandohopeR'; /* ì™„ë„í¬ë§ì²´R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wando-gun/WandohopeR.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'WandohopeB'; /* ¿ÏµµÈñ¸ÁÃ¼B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Wando-gun/WandohopeB.woff2') format('woff2');
+    font-family: 'WandohopeB'; /* ì™„ë„í¬ë§ì²´B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wando-gun/WandohopeB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Wanjunuriche_Regular'; /* ¿ÏÁÖ´©¸®Ã¼ Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Wanju-gun/Wanjunuriche_Regular.woff2') format('woff2');
+    font-family: 'Wanjunuriche_Regular'; /* ì™„ì£¼ëˆ„ë¦¬ì²´ Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wanju-gun/Wanjunuriche_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Wanjudaedunsanche_Regular'; /* ¿ÏÁÖ´ëµĞ»êÃ¼ Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Wanju-gun/Wanjudaedunsanche_Regular.woff2') format('woff2');
+    font-family: 'Wanjudaedunsanche_Regular'; /* ì™„ì£¼ëŒ€ë‘”ì‚°ì²´ Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wanju-gun/Wanjudaedunsanche_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Wanjudaedunsanche_Bold'; /* ¿ÏÁÖ´ëµĞ»êÃ¼ Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Wanju-gun/Wanjudaedunsanche_Bold.woff2') format('woff2');
+    font-family: 'Wanjudaedunsanche_Bold'; /* ì™„ì£¼ëŒ€ë‘”ì‚°ì²´ Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wanju-gun/Wanjudaedunsanche_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'iceSotong_Regular'; /* ÀÎÃµ±³À°¼ÒÅë */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/ICE/iceSotong_Regular.woff2') format('woff2');
+    font-family: 'iceSotong_Regular'; /* ì¸ì²œêµìœ¡ì†Œí†µ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ICE/iceSotong_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'iceSimin_Regular'; /* ÀÎÃµ±³À°½Ã¹Î */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/ICE/iceSimin_Regular.woff2') format('woff2');
+    font-family: 'iceSimin_Regular'; /* ì¸ì²œêµìœ¡ì‹œë¯¼ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ICE/iceSimin_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'iceJaram_Regular'; /* ÀÎÃµ±³À°ÀÚ¶÷ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/ICE/iceJaram_Regular.woff2') format('woff2');
+    font-family: 'iceJaram_Regular'; /* ì¸ì²œêµìœ¡ìëŒ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ICE/iceJaram_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'iceHimchan_Regular'; /* ÀÎÃµ±³À°ÈûÂù */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/ICE/iceHimchan_Regular.woff2') format('woff2');
+    font-family: 'iceHimchan_Regular'; /* ì¸ì²œêµìœ¡í˜ì°¬ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ICE/iceHimchan_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'PureunJeonnam'; /* Çª¸¥Àü³² */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeollanam-do/PureunJeonnam.woff2') format('woff2');
+    font-family: 'PureunJeonnam'; /* í‘¸ë¥¸ì „ë‚¨ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeollanam-do/PureunJeonnam.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'PureunJeonnamM'; /* Çª¸¥Àü³²-Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeollanam-do/PureunJeonnamM.woff2') format('woff2');
+    font-family: 'PureunJeonnamM'; /* í‘¸ë¥¸ì „ë‚¨-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeollanam-do/PureunJeonnamM.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'PureunJeonnamB'; /* Çª¸¥Àü³²-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeollanam-do/PureunJeonnamB.woff2') format('woff2');
+    font-family: 'PureunJeonnamB'; /* í‘¸ë¥¸ì „ë‚¨-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeollanam-do/PureunJeonnamB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'JeollabukdoL'; /* Àü¶óºÏµµÃ¼L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeollabuk-do/JeollabukdoL.woff2') format('woff2');
+    font-family: 'JeollabukdoL'; /* ì „ë¼ë¶ë„ì²´L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeollabuk-do/JeollabukdoL.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'JeollabukdoM'; /* Àü¶óºÏµµÃ¼M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeollabuk-do/JeollabukdoM.woff2') format('woff2');
+    font-family: 'JeollabukdoM'; /* ì „ë¼ë¶ë„ì²´M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeollabuk-do/JeollabukdoM.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'JeonjuWanGakL'; /* ÀüÁÖ¿ÏÆÇº» °¢L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeonju-si/JeonjuWanGakL.woff2') format('woff2');
+    font-family: 'JeonjuWanGakL'; /* ì „ì£¼ì™„íŒë³¸ ê°L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanGakL.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'JeonjuWanGakR'; /* ÀüÁÖ¿ÏÆÇº» °¢R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeonju-si/JeonjuWanGakR.woff2') format('woff2');
+    font-family: 'JeonjuWanGakR'; /* ì „ì£¼ì™„íŒë³¸ ê°R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanGakR.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'JeonjuWanGakB'; /* ÀüÁÖ¿ÏÆÇº» °¢B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeonju-si/JeonjuWanGakB.woff2') format('woff2');
+    font-family: 'JeonjuWanGakB'; /* ì „ì£¼ì™„íŒë³¸ ê°B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanGakB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'JeonjuWanSunL'; /* ÀüÁÖ¿ÏÆÇº» ¼øL */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeonju-si/JeonjuWanSunL.woff2') format('woff2');
+    font-family: 'JeonjuWanSunL'; /* ì „ì£¼ì™„íŒë³¸ ìˆœL */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanSunL.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'JeonjuWanSunR'; /* ÀüÁÖ¿ÏÆÇº» ¼øR */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeonju-si/JeonjuWanSunR.woff2') format('woff2');
+    font-family: 'JeonjuWanSunR'; /* ì „ì£¼ì™„íŒë³¸ ìˆœR */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanSunR.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'JeonjuWanSunB'; /* ÀüÁÖ¿ÏÆÇº» ¼øB */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeonju-si/JeonjuWanSunB.woff2') format('woff2');
+    font-family: 'JeonjuWanSunB'; /* ì „ì£¼ì™„íŒë³¸ ìˆœB */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanSunB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'JS_Arirang'; /* Á¤¼±¾Æ¸®¶û */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeongseon-gun/JS_Arirang.woff2') format('woff2');
+    font-family: 'JS_Arirang'; /* ì •ì„ ì•„ë¦¬ë‘ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeongseon-gun/JS_Arirang.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'JS_Arirang_HON'; /* Á¤¼±¾Æ¸®¶û È¥ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeongseon-gun/JS_Arirang_HON.woff2') format('woff2');
+    font-family: 'JS_Arirang_HON'; /* ì •ì„ ì•„ë¦¬ë‘ í˜¼ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeongseon-gun/JS_Arirang_HON.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'JS_Arirang_PPURI'; /* Á¤¼º¾Æ¸®¶û »Ñ¸® */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeongseon-gun/JS_Arirang_PPURI.woff2') format('woff2');
+    font-family: 'JS_Arirang_PPURI'; /* ì •ì„±ì•„ë¦¬ë‘ ë¿Œë¦¬ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeongseon-gun/JS_Arirang_PPURI.woff2') format('woff2');
 }
 @font-face {
-    font-family: 'JS_Dongkang'; /* Á¤¼±µ¿°­-Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeongseon-gun/JS_Dongkang.woff2') format('woff2');
+    font-family: 'JS_Dongkang'; /* ì •ì„ ë™ê°•-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeongseon-gun/JS_Dongkang.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'JS_DongkangB'; /* Á¤¼±µ¿°­-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeongseon-gun/JS_DongkangB.woff2') format('woff2');
+    font-family: 'JS_DongkangB'; /* ì •ì„ ë™ê°•-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeongseon-gun/JS_DongkangB.woff2') format('woff2');
 }
 
 
 @font-face {
-    font-family: 'JejuGothic'; /* Á¦ÁÖ°íµñ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeju-do/JejuGothic.woff2') format('woff2');
+    font-family: 'JejuGothic'; /* ì œì£¼ê³ ë”• */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeju-do/JejuGothic.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'JejuMyeongjo'; /* Á¦ÁÖ¸íÁ¶ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeju-do/JejuMyeongjo.woff2') format('woff2');
+    font-family: 'JejuMyeongjo'; /* ì œì£¼ëª…ì¡° */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeju-do/JejuMyeongjo.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'JejuHallasan'; /* Á¦ÁÖÇÑ¶ó»ê */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Jeju-do/JejuHallasan.woff2') format('woff2');
+    font-family: 'JejuHallasan'; /* ì œì£¼í•œë¼ì‚° */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeju-do/JejuHallasan.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'ChangwonDangamAsac'; /* Ã¢¿ø´Ü°¨¾Æ»è-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Changwon-si/ChangwonDangamAsac.woff2') format('woff2');
+    font-family: 'ChangwonDangamAsac'; /* ì°½ì›ë‹¨ê°ì•„ì‚­-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Changwon-si/ChangwonDangamAsac.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'TAEBAEK_font'; /* ÅÂ¹éÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Taebaek-si/TAEBAEK_font.woff2') format('woff2');
+    font-family: 'TAEBAEK_font'; /* íƒœë°±ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/TAEBAEK_font.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'TAEBAEK_milkyway'; /* ÅÂ¹éÀºÇÏ¼öÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Taebaek-si/TAEBAEK_milkyway.woff2') format('woff2');
+    font-family: 'TAEBAEK_milkyway'; /* íƒœë°±ì€í•˜ìˆ˜ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/TAEBAEK_milkyway.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'PyeongChangL'; /* ÆòÃ¢Ã¼-Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Pyeongchang-gun/PyeongChangL.woff2') format('woff2');
+    font-family: 'PyeongChangL'; /* í‰ì°½ì²´-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongchang-gun/PyeongChangL.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'PyeongChangB'; /* ÆòÃ¢Ã¼-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Pyeongchang-gun/PyeongChangB.woff2') format('woff2');
+    font-family: 'PyeongChangB'; /* í‰ì°½ì²´-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongchang-gun/PyeongChangB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'PyeongChang_PeaceL'; /* ÆòÃ¢ ÆòÈ­Ã¼-Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Pyeongchang-gun/PyeongChang_PeaceL.woff2') format('woff2');
+    font-family: 'PyeongChang_PeaceL'; /* í‰ì°½ í‰í™”ì²´-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongchang-gun/PyeongChang_PeaceL.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'PyeongChang_PeaceB'; /* ÆòÃ¢ ÆòÈ­Ã¼-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Pyeongchang-gun/PyeongChang_PeaceB.woff2') format('woff2');
+    font-family: 'PyeongChang_PeaceB'; /* í‰ì°½ í‰í™”ì²´-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongchang-gun/PyeongChang_PeaceB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Makgeolli'; /* Æ÷Ãµ ¸·°É¸®Ã¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Pocheon-si/Makgeolli.woff2') format('woff2');
+    font-family: 'Makgeolli'; /* í¬ì²œ ë§‰ê±¸ë¦¬ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pocheon-si/Makgeolli.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'OSeong_and_HanEum_Regular'; /* Æ÷Ãµ ¿À¼º°ú ÇÑÀ½-Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Pocheon-si/OSeong_and_HanEum_Regular.woff2') format('woff2');
+    font-family: 'OSeong_and_HanEum_Regular'; /* í¬ì²œ ì˜¤ì„±ê³¼ í•œìŒ-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pocheon-si/OSeong_and_HanEum_Regular.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'OSeong_and_HanEum_Bold'; /* Æ÷Ãµ ¿À¼º°ú ÇÑÀ½-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Pocheon-si/OSeong_and_HanEum_Bold.woff2') format('woff2');
+    font-family: 'OSeong_and_HanEum_Bold'; /* í¬ì²œ ì˜¤ì„±ê³¼ í•œìŒ-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pocheon-si/OSeong_and_HanEum_Bold.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HANAMDAUM'; /* ÇÏ³²´Ù¿òÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Hanam-si/HANAMDAUM.woff2') format('woff2');
+    font-family: 'HANAMDAUM'; /* í•˜ë‚¨ë‹¤ì›€ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Hanam-si/HANAMDAUM.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HANAMDAUM_Body'; /* ÇÏ³²´Ù¿òÃ¼ º»¹® */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Hanam-si/HANAMDAUM_Body.woff2') format('woff2');
+    font-family: 'HANAMDAUM_Body'; /* í•˜ë‚¨ë‹¤ì›€ì²´ ë³¸ë¬¸ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Hanam-si/HANAMDAUM_Body.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KHNPHandotumR'; /* ÇÑ¼ö¿ø_ÇÑµ¸À½_R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/KHNP/KHNPHandotumR.woff2') format('woff2');
+    font-family: 'KHNPHandotumR'; /* í•œìˆ˜ì›_í•œë‹ìŒ_R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KHNP/KHNPHandotumR.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KHNPHandotumB'; /* ÇÑ¼ö¿ø_ÇÑµ¸À½_B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/KHNP/KHNPHandotumB.woff2') format('woff2');
+    font-family: 'KHNPHandotumB'; /* í•œìˆ˜ì›_í•œë‹ìŒ_B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KHNP/KHNPHandotumB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'KHNPHanuoolim'; /* ÇÑ¼ö¿ø_ÇÑ¿ï¸²_R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/KHNP/KHNPHanuoolim.woff2') format('woff2');
+    font-family: 'KHNPHanuoolim'; /* í•œìˆ˜ì›_í•œìš¸ë¦¼_R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KHNP/KHNPHanuoolim.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Haenam'; /* ÇØ³²Ã¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Haenam-gun/HaenamFont.woff2') format('woff2');
+    font-family: 'Haenam'; /* í•´ë‚¨ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Haenam-gun/HaenamFont.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HappyGoheungL'; /* Çàº¹°íÈïL */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Goheung-gun/HappyGoheungL.woff2') format('woff2');
+    font-family: 'HappyGoheungL'; /* í–‰ë³µê³ í¥L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goheung-gun/HappyGoheungL.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HappyGoheungM'; /* Çàº¹°íÈïM */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Goheung-gun/HappyGoheungM.woff2') format('woff2');
+    font-family: 'HappyGoheungM'; /* í–‰ë³µê³ í¥M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goheung-gun/HappyGoheungM.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'HappyGoheungB'; /* Çàº¹°íÈïB */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Goheung-gun/HappyGoheungB.woff2') format('woff2');
+    font-family: 'HappyGoheungB'; /* í–‰ë³µê³ í¥B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goheung-gun/HappyGoheungB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'EnvironmentR'; /* È¯°æR */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/ME/EnvironmentR.woff2') format('woff2');
+    font-family: 'EnvironmentR'; /* í™˜ê²½R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ME/EnvironmentR.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'EnvironmentB'; /* È¯°æB */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/ME/EnvironmentB.woff2') format('woff2');
+    font-family: 'EnvironmentB'; /* í™˜ê²½B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ME/EnvironmentB.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Hoengseong_Hanu'; /* È¾¼ºÇÑ¿ìÃ¼ */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Hoengseong-gun/Hoengseong_Hanu.woff2') format('woff2');
+    font-family: 'Hoengseong_Hanu'; /* íš¡ì„±í•œìš°ì²´ */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Hoengseong-gun/Hoengseong_Hanu.woff2') format('woff2');
 }
 
