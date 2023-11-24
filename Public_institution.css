@@ -1,21 +1,21 @@
 @font-face {
     font-family: 'GangwonEduAll_Light'; /* 강원교육모두+Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduAll_Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduAll_Light.woff') format('woff');
 }
 
 @font-face {
     font-family: 'GangwonEduAll_Bold'; /* 강원교육모두+Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduAll_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduAll_Bold.woff') format('woff');
 }
 
 @font-face {
     font-family: 'GangwonEduSaeeum_Medium'; /* 강원교육새음 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduSaeeum_Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduSaeeum_Medium.woff') format('woff');
 }
 
 @font-face {
     font-family: 'GangwonEduPower'; /* 강원교육튼튼 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduPower.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduPower.woff') format('woff');
 }
 
 @font-face {
