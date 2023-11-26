@@ -380,27 +380,27 @@
 
 @font-face {
     font-family: 'YiSunShin_Regular'; /* 이순신Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Regular.woff') format('woff');
 }
 
 @font-face {
     font-family: 'YiSunShin_Bold'; /* 이순신Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Bold.woff') format('woff');
 }
 
 @font-face {
     font-family: 'YiSunShin_Dotum_L'; /* 이순신돋움체L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Dotum_L.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Dotum_L.woff') format('woff');
 }
 
 @font-face {
     font-family: 'YiSunShin_Dotum_M'; /* 이순신돋움체M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Dotum_M.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Dotum_M.woff') format('woff');
 }
 
 @font-face {
     font-family: 'YiSunShin_Dotum_B'; /* 이순신돋움체B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Dotum_B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Dotum_B.woff') format('woff');
 }
 
 @font-face {
