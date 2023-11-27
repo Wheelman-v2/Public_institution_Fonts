@@ -169,13 +169,23 @@
 }
 
 @font-face {
-    font-family: 'GimpoBatang'; /* 김포평화바탕 */
+    font-family: 'GimpoBatang'; /* 김포 바탕 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gimpo-si/GimpoBatang.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'GimpoTitle'; /* 김포평화제목 */
+    font-family: 'GimpoTitle'; /* 김포 제목 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gimpo-si/GimpoTitle.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GimpoGothicRegular'; /* 김포 고딕 Regular*/
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gimpo-si/GimpoGothicRegular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GimpoGothicBold'; /* 김포고딕 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gimpo-si/GimpoGothicBold.woff2') format('woff2');
 }
 
 @font-face {
