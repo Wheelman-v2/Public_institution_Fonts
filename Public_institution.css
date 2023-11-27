@@ -280,7 +280,7 @@
 
 @font-face {
     font-family: 'BusanFont_Provisional'; /* 부산체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanFont_Provisional.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanFont_Provisional.woff') format('woff');
 }
 
 @font-face {
