@@ -189,8 +189,8 @@
 }
 
 @font-face {
-    font-family: 'DalseoDarling'; /* 달서힐링체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Dalseo-gu/DalseoDarling.woff2') format('woff2');
+    font-family: 'DalseoDarling'; /* 달서달링체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Dalseo-gu/DalseoDarling.woff') format('woff');
 }
 
 @font-face {
