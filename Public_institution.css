@@ -100,7 +100,7 @@
 
 @font-face {
     font-family: 'GoyangIlsan_L'; /* 고양일산 L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goyang-si/GoyangIlsan_L.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goyang-si/GoyangIlsan_L.woff') format('woff');
 }
 
 @font-face {
