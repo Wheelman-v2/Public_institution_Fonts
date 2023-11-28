@@ -580,17 +580,17 @@
 
 @font-face {
     font-family: 'JeonjuWanSunL'; /* 전주완판본 순L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanSunL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanSunL.woff') format('woff');
 }
 
 @font-face {
     font-family: 'JeonjuWanSunR'; /* 전주완판본 순R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanSunR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanSunR.woff') format('woff');
 }
 
 @font-face {
     font-family: 'JeonjuWanSunB'; /* 전주완판본 순B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanSunB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanSunB.woff') format('woff');
 }
 
 @font-face {
