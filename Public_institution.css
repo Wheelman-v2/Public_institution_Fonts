@@ -424,17 +424,17 @@
 }
 
 @font-face {
-    font-family: '(1)_YangPyeong_L'; /* 양평군체_L */
+    font-family: 'YangPyeong_L'; /* 양평군체_L */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yangpyeong-gun/YangPyeong_L.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '(2)_YangPyeong_M'; /* 양평군체_M */
+    font-family: 'YangPyeong_M'; /* 양평군체_M */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yangpyeong-gun/YangPyeong_M.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: '(3)_YangPyeong_B'; /* 양평군체_B */
+    font-family: 'YangPyeong_B'; /* 양평군체_B */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yangpyeong-gun/YangPyeong_B.woff2') format('woff2');
 }
 
