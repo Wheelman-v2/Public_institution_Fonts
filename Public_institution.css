@@ -710,7 +710,7 @@
 
 @font-face {
     font-family: 'Haenam'; /* 해남체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Haenam-gun/HaenamFont.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Haenam-gun/HaenamFont.woff') format('woff');
 }
 
 @font-face {
