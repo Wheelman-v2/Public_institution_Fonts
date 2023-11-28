@@ -140,7 +140,7 @@
 
 @font-face {
     font-family: 'MuseumClassic_Medium'; /* 국립박물관문화재단클래식M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NMF/MuseumClassic_Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NMF/MuseumClassic_Medium.woff') format('woff');
 }
 
 @font-face {
