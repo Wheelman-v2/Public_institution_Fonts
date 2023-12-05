@@ -743,3 +743,33 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Hoengseong-gun/Hoengseong_Hanu.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'NYJ_Dasan_M'; /* 남양주 다산 M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Namyangju-si/NYJ_Dasan_M.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NYJ_Dasan_B'; /* 남양주 다산 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Namyangju-si/NYJ_Dasan_B.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'NYJGothicR'; /* 남양주고딕Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Namyangju-si/NYJGothicR.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NYJGothicM'; /* 남양주고딕Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Namyangju-si/NYJGothicM.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NYJGothicB'; /* 남양주고딕Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Namyangju-si/NYJGothicB.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'NYJGothicEB'; /* 남양주고딕Extra Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution/Namyangju-si/NYJGothicEB.woff2') format('woff2');
+}
+
