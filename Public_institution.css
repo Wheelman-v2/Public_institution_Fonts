@@ -669,6 +669,16 @@
 }
 
 @font-face {
+    font-family: 'PyeongchangAreumDareum_Regular'; /* 평창아름다름체 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongchang-gun/PyeongchangAreumDareum_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'PyeongchangDalogae_Regular'; /* 평창월오개체 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongchang-gun/PyeongchangDalogae_Regular.woff2') format('woff2');
+}
+
+@font-face {
     font-family: 'Makgeolli'; /* 포천 막걸리체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pocheon-si/Makgeolli.woff2') format('woff2');
 }
