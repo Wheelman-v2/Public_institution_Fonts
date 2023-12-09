@@ -669,13 +669,13 @@
 }
 
 @font-face {
-    font-family: 'PyeongchangAreumDareum_Regular'; /* 평창아름다름체 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongchang-gun/PyeongchangAreumDareum_Regular.woff2') format('woff2');
+    font-family: 'PyeongchangAreumDareum'; /* 평창아름다름체 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongchang-gun/PyeongchangAreumDareum.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'PyeongchangDalogae_Regular'; /* 평창월오개체 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongchang-gun/PyeongchangDalogae_Regular.woff2') format('woff2');
+    font-family: 'PyeongchangDalogae'; /* 평창월오개체 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongchang-gun/PyeongchangDalogae.woff2') format('woff2');
 }
 
 @font-face {
