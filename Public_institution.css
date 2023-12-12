@@ -334,6 +334,26 @@
 }
 
 @font-face {
+    font-family: 'SeoulHangang_L'; /* 서울한강L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulHangang_L.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SeoulHangang_M'; /* 서울한강M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulHangang_M.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SeoulHangang_B'; /* 서울한강B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulHangang_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SeoulHangang_EB'; /* 서울한강EB */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulHangang_EB.woff2') format('woff2');
+}
+
+@font-face {
     font-family: 'SungDong_Gothic_B'; /* 성동고딕 B */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seongdong-gu/SungDong_Gothic_B.woff2') format('woff2');
 }
