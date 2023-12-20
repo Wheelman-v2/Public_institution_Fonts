@@ -1,4 +1,9 @@
 @font-face {
+    font-family: '62570'; /* 62570체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/MPVA/62570.woff2') format('woff2');
+}
+
+@font-face {
     font-family: 'GangwonEduAll_Light'; /* 강원교육모두+Light */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduAll_Light.woff') format('woff');
 }
