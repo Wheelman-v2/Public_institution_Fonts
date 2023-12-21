@@ -822,3 +822,23 @@
     font-family: 'CHEONGDO(M)'; /* 청도읍성체(M) */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Cheongdo-gun/CHEONGDO(M).woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'SANGJU_Gyeongcheon_Island'; /* 상주경천섬체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sangju-si/SANGJU_Gyeongcheon_Island.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SANGJU_Gotgam'; /* 상주곶감체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sangju-si/SANGJU_Gotgam.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SANGJU_Dajungdagam'; /* 상주다정다감체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sangju-si/SANGJU_Dajungdagam.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SANGJU_Haerye'; /* 상주해례본체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sangju-si/SANGJU_Haerye.woff2') format('woff2');
+}
