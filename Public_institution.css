@@ -812,3 +812,13 @@
     font-family: 'dobong'; /* 도봉옛길체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/DCI/dobong.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'CHEONGDO(L)'; /* 청도읍성체(L) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Cheongdo-gun/CHEONGDO(L).woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'CHEONGDO(M)'; /* 청도읍성체(M) */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Cheongdo-gun/CHEONGDO(M).woff2') format('woff2');
+}
