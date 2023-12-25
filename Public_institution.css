@@ -867,3 +867,43 @@
     font-family: 'Chilgok_Cye'; /* 칠곡할매_추유을체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Cye.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Saenggeo_Jincheon'; /* 생거진천체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jincheon-gun/Saenggeo_Jincheon.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SLEI_Gothic_TTF'; /* 서평원 꺾깎체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/SLEI/SLEI_Gothic_TTF.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Solmoe_KimDaeGeon_Light'; /* 솔뫼 김대건 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Saint-KDG/Solmoe_KimDaeGeon_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Solmoe_KimDaeGeon_Medium'; /* 솔뫼 김대건 Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Saint-KDG/Solmoe_KimDaeGeon_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ShinDongYup_Handwriting-R'; /* 신동엽손글씨-R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Buyeo-gun/ShinDongYup_Handwriting-R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ShinDongYup_Handwriting-B'; /* 신동엽손글씨-B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Buyeo-gun/ShinDongYup_Handwriting-B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Jeongnimsaji-R'; /* 정림사지 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Buyeo-gun/Jeongnimsaji-R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Jeongnimsaji-B'; /* 정림사지 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Buyeo-gun/Jeongnimsaji-B.woff2') format('woff2');
+}
