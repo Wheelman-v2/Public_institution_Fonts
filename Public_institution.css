@@ -907,3 +907,28 @@
     font-family: 'Jeongnimsaji-B'; /* 정림사지 B */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Buyeo-gun/Jeongnimsaji-B.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Gapyeong_Wave'; /* 가평물결 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gapyeong-gun/Gapyeong_Wave.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gapyeong_HanseokbongL'; /* 가평한석봉 큰붓 L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gapyeong-gun/Gapyeong_HanseokbongL.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gapyeong_HanseokbongR'; /* 가평한석봉 큰붓 R */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gapyeong-gun/Gapyeong_HanseokbongR.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gapyeong_HanseokbongB'; /* 가평한석봉 큰붓 B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gapyeong-gun/Gapyeong_HanseokbongB.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ChungjuKimSaeng'; /* 충주김생체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chungju-si/ChungjuKimSaeng.woff2') format('woff2');
+}
