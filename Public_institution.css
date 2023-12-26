@@ -914,12 +914,12 @@
 }
 
 @font-face {
-    font-family: 'Gapyeong_HanseokbongL'; /* 가평한석봉 큰붓 L */
+    font-family: 'Gapyeong_HanseokbongL'; /* 가평한석봉 가는붓 L */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gapyeong-gun/Gapyeong_HanseokbongL.woff2') format('woff2');
 }
 
 @font-face {
-    font-family: 'Gapyeong_HanseokbongR'; /* 가평한석봉 큰붓 R */
+    font-family: 'Gapyeong_HanseokbongR'; /* 가평한석봉 중간붓 R */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gapyeong-gun/Gapyeong_HanseokbongR.woff2') format('woff2');
 }
 
