@@ -932,3 +932,19 @@
     font-family: 'ChungjuKimSaeng'; /* 충주김생체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chungju-si/ChungjuKimSaeng.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'ACCchildrenfall'; /* ACC어린이가을담은체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ACC/ACCchildrenfall.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ACCchildrenheart'; /* ACC어린이마음고운체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ACC/ACCchildrenheart.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ACCchildrensky'; /* ACC어린이하늘맑은체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ACC/ACCchildrensky.woff2') format('woff2');
+}
+
