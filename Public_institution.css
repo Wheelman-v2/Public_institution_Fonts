@@ -948,3 +948,17 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ACC/ACCchildrensky.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'KoddiUD_OnGothic_R'; /* KoddiUD 온고딕 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Koddi/KoddiUD_OnGothic_R.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KoddiUD_OnGothic_B'; /* KoddiUD 온고딕 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Koddi/KoddiUD_OnGothic_B.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KoddiUD_OnGothic_EB'; /* KoddiUD 온고딕 ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Koddi/KoddiUD_OnGothic_EB.woff2') format('woff2');
+}
