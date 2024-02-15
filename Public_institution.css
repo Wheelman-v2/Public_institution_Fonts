@@ -977,3 +977,28 @@
     font-family: 'Sokcho_Bada_Calligraphy'; /* 속초바다 손글씨체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sokcho-si/Sokcho_Bada_Calligraphy.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Ownglyph_2022_UWY_Si_Woo'; /* 온글잎 의청수 시우체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/UWY/Ownglyph_2022_UWY_Si_Woo.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_2022_UWY_Yoon_Yeong'; /* 온글잎 의청수 윤영체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/UWY/Ownglyph_2022_UWY_Yoon_Yeong.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_2022_UWY_Da_Gyeong'; /* 온글잎_의청수_다경체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/UWY/Ownglyph_2022_UWY_Da_Gyeong.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_2022_UWY_Jae_Seon'; /* 온글잎_의청수_재선체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/UWY/Ownglyph_2022_UWY_Jae_Seon.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_2022_UWY_Joo_Bin'; /* 온글잎_의청수_주빈체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/UWY/Ownglyph_2022_UWY_Joo_Bin.woff2') format('woff2');
+}
