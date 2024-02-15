@@ -962,3 +962,18 @@
     font-family: 'KoddiUD_OnGothic_EB'; /* KoddiUD 온고딕 ExtraBold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Koddi/KoddiUD_OnGothic_EB.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Sokcho_Bada_Dotum'; /* 속초바다 돋움체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sokcho-si/Sokcho_Bada_Dotum.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sokcho_Bada_Batang'; /* 속초바다 바탕체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sokcho-si/Sokcho_Bada_Batang.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sokcho_Bada_Calligraphy'; /* 속초바다 손글씨체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sokcho-si/Sokcho_Bada_Calligraphy.woff2') format('woff2');
+}
