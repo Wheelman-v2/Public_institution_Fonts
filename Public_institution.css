@@ -1002,3 +1002,8 @@
     font-family: 'Ownglyph_2022_UWY_Joo_Bin'; /* 온글잎_의청수_주빈체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/UWY/Ownglyph_2022_UWY_Joo_Bin.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'GOSEONG_GEUMGANGNURI'; /* 고성 금강누리체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gosung-gun/GOSEONG_GEUMGANGNURI.woff2') format('woff2');
+}
