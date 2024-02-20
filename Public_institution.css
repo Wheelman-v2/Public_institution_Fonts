@@ -1007,3 +1007,43 @@
     font-family: 'GOSEONG_GEUMGANGNURI'; /* 고성 금강누리체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gosung-gun/GOSEONG_GEUMGANGNURI.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'GamtanRoad_Gamtan'; /* 감탄로드감탄체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Gamtan.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GamtanRoad_Tantan'; /* 감탄로드탄탄체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Tantan.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GamtanRoad_Dotum_Thin'; /* 감탄로드돋움체 Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Dotum_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GamtanRoad_Dotum_Regular'; /* 감탄로드돋움체 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Dotum_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GamtanRoad_Dotum_Bold'; /* 감탄로드돋움체 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Dotum_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GamtanRoad_Batang_Thin'; /* 감탄로드바탕체 Thin */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Batang_Thin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GamtanRoad_Batang_Regular'; /* 감탄로드바탕체 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Batang_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'GamtanRoad_Batang_Bold'; /* 감탄로드바탕체 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Batang_Bold.woff2') format('woff2');
+}
