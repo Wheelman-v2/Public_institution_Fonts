@@ -1047,3 +1047,9 @@
     font-family: 'GamtanRoad_Batang_Bold'; /* 감탄로드바탕체 Bold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Batang_Bold.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'WagleWagle'; /* 와글와글 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GoyangCM/WagleWagle.woff2') format('woff2');
+}
+
