@@ -1062,3 +1062,8 @@
     font-family: 'YeojuCeramic'; /* 여주도자체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeoju-si/YeojuCeramic.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'WAGURI'; /* 와구리체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Guri-si/WAGURI.woff2') format('woff2');
+}
