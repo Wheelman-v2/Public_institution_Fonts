@@ -1053,3 +1053,7 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GoyangCM/WagleWagle.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'YEONGJUSeonbi'; /* 영주선비체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongju-si/YEONGJUSeonbi.woff2') format('woff2');
+}
