@@ -1067,3 +1067,8 @@
     font-family: 'WAGURI'; /* 와구리체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Guri-si/WAGURI.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Yangju_Byeolsan'; /* 양주 별산체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/YangJu-si/Yangju_Byeolsan.woff2') format('woff2');
+}
