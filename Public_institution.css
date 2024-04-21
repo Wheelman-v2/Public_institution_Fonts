@@ -1,4 +1,19 @@
 @font-face {
+    font-family: 'April16th-Life'; /* 사체십육일 생명체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/416/April16th-Life.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'April16th-Safety'; /* 사체십육일 안전체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/416/April16th-Safety.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'April16th-Promise'; /* 사체십육일 약체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/416/April16th-Promise.woff2') format('woff2');
+}
+
+@font-face {
     font-family: '62570'; /* 62570체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/MPVA/62570.woff2') format('woff2');
 }
