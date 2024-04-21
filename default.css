@@ -1,0 +1,229 @@
+        @media screen {
+            .move-button {
+                max-width: 850px;
+                width: 100%;
+            }
+        }
+        #Fontname {
+            top: 50%;
+            right: 50%;
+            line-height: 1.1;
+            transform: translate(50%, -50%);
+            font-size: 60px;
+            font-weight: 700;
+            color: #f5f5f5;
+            text-shadow: 1px 1px 1px #919191,
+                1px 2px 1px #919191,
+                1px 3px 1px #919191,
+                1px 4px 1px #919191,
+                1px 5px 1px #919191,
+                1px 6px 1px #919191,
+                1px 7px 1px #919191,
+                1px 8px 1px #919191,
+                1px 9px 1px #919191,
+                1px 10px 1px #919191,
+                1px 18px 6px rgba(16, 16, 16, 0.4),
+                1px 22px 10px rgba(16, 16, 16, 0.2),
+                1px 25px 35px rgba(16, 16, 16, 0.2),
+                1px 30px 60px rgba(16, 16, 16, 0.4);
+        }
+        /* 다운로드 버튼 */
+        #download {
+            width: 100%;
+            padding: 5px 5px 5px 5px;
+            font-family: 'Open Sans', sans-serif;
+            font-size: 100%;
+            border: 2px solid #FBC5D5 !important;
+            border-radius: 6px;
+            transition: all 0.3s ease 0s;
+            text-transform: uppercase;
+            background: #ffffff;
+            color: #F7759A !important;
+            cursor: pointer;
+            text-size-adjust: 100%;
+        }
+
+        #download:hover {
+            color: #ffffff !important;
+            border-color: #494949 !important;
+            transition: all 0.3s ease 0s;
+            background: #F7759A;
+            font-weight: bold;
+        }
+
+        /* 전체 모음 페이지 이동 버튼 */
+        #Free {
+            width: 100%;
+            padding: 5px 5px 5px 5px;
+            font-family: 'Open Sans', sans-serif;
+            font-size: 100%;
+            border: 2px solid #F1F1F1 !important;
+            border-radius: 6px;
+            display: inline-block;
+            transition: all 0.3s ease 0s;
+            text-transform: uppercase;
+            background: #ffffff;
+            color: #494949 !important;
+            cursor: pointer;
+            text-size-adjust: 100%;
+        }
+
+        #Free:hover {
+            color: #ffffff !important;
+            border-color: #494949 !important;
+            transition: all 0.3s ease 0s;
+            background: #9199E9;
+            font-weight: bold;
+        }
+
+
+        /* 미리보기 창 */
+        .TA {
+            padding: 10px 0px 5px 10px;
+            color: #241F2C;
+            background: #FCFDF7;
+            border: 1px solid #F1F1F1;
+            min-width: 98%;
+            min-height: auto;
+            max-width: 98%;
+            max-height: auto;
+            resize: none;
+            outline: none;
+            overflow: hidden;
+        }
+
+        /* 가상 요소로 세로로 긴 바 추가 */
+        .tex_Property::before {
+            color: red;
+            content: "|";
+            margin-right: 5px;
+            font-weight: bold;
+        }
+
+        hr.style-one {
+            margin: 70px 0 70px 0;
+            border: 0;
+            height: 1px;
+            background-image: linear-gradient(to right, rgba(106, 179, 137, 0), rgba(106, 179, 137, 0.75), rgba(106, 179, 137, 0));
+        }
+
+        hr {
+            display: block;
+            unicode-bidi: isolate;
+            -webkit-margin-before: 0.5em;
+            -webkit-margin-after: 0.5em;
+            -webkit-margin-start: auto;
+            -webkit-margin-end: auto;
+            overflow: hidden;
+            border-style: inset;
+            border-width: 1px;
+            width: 50%;
+        }
+
+        hr.style-two {
+            border: 0;
+            height: 1px;
+            background-image: linear-gradient(to right, rgba(106, 179, 137, 0), rgba(106, 179, 137, 0.75), rgba(106, 179, 137, 0));
+        }
+
+        hr {
+            display: block;
+            unicode-bidi: isolate;
+            -webkit-margin-before: 0.5em;
+            -webkit-margin-after: 0.5em;
+            -webkit-margin-start: auto;
+            -webkit-margin-end: auto;
+            overflow: hidden;
+            border-style: inset;
+            border-width: 1px;
+            width: 100%;
+        }
+
+        #slider {
+            cursor: pointer;
+        }
+
+        #Textwright {
+            border: 1px solid #F1F1F1;
+            height: 30px;
+            font-size: 15px;
+            flex: 1;
+            width: 100%;
+        }
+
+        #inputbu {
+            background-color: #6AB389;
+            border: 1px solid #6AB389;
+            color: aliceblue;
+            font-size: 15px;
+            cursor: pointer;
+            width: 100%;
+        }
+
+        div.mainbox {
+            border: solid #F1F1F1;
+            border-radius: 5px;
+            padding: 7px 7px 7px 7px;
+            margin-bottom: 20px;
+            box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+            max-width: 830px;
+        }
+
+        /* 접기-펴기 */
+        .spread {
+            height: 100%;
+            color: #fff;
+            line-height: 1.5;
+        }
+
+        details {
+            width: 100%;
+            max-width: 850px;
+            background: #c3c3c3;
+            border-radius: 6px;
+            overflow: hidden;
+        }
+
+        summary::-webkit-details-marker {
+            display: none;
+        }
+
+        summary {
+            text-align: center;
+            display: block;
+            position: relative;
+            padding: 150px 150px 150px var(--left-padding);
+            background: #222;
+            cursor: pointer;
+            padding: 10px 0px 10px 0px;
+        }
+
+        details>.sentence {
+            background-color: #333;
+            padding: 10px 10px 10px 10px;
+        }
+
+
+        #license {
+            border: 1px #a39485 solid;
+            font-size: .9em;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, .25);
+            width: 100%;
+            border-collapse: collapse;
+            border-radius: 5px;
+            overflow: hidden;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #license td,
+        tr {
+            border-bottom: 1px solid #e5e5e5;
+            padding: 15px 15px 15px 15px;
+        }
+
+        td.OX {
+            text-align: center;
+            font-weight: bold;
+            font-size: 20px;
+        }
