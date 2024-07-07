@@ -1087,3 +1087,14 @@
     font-family: 'Yangju_Byeolsan'; /* 양주 별산체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/YangJu-si/Yangju_Byeolsan.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Peoplefirst_Neat&Loud'; /* 피플퍼스트 또박 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Peoplefirst/Peoplefirst_Neat&Loud.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Peoplefirst_Fighting'; /* 피플퍼스트 투쟁 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Peoplefirst/Peoplefirst_Fighting.woff2') format('woff2');
+}
+
