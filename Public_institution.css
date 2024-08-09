@@ -1098,3 +1098,17 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Peoplefirst/Peoplefirst_Fighting.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Yoon_Childfundkorea_DaeHan'; /* Yoon 초록우산어린이 대한 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ChildFund/Yoon_Childfundkorea_DaeHan.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Yoon_Childfundkorea_MinGuk'; /* Yoon 초록우산어린이 민국 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ChildFund/Yoon_Childfundkorea_MinGuk.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Yoon_Childfundkorea_ManSeh'; /* Yoon 초록우산어린이 만세 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ChildFund/Yoon_Childfundkorea_ManSeh.woff2') format('woff2');
+}
