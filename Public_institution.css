@@ -1112,3 +1112,28 @@
     font-family: 'Yoon_Childfundkorea_ManSeh'; /* Yoon 초록우산어린이 만세 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ChildFund/Yoon_Childfundkorea_ManSeh.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'PT_Noeul_Light'; /* 평택노을체 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongtaek-si/PT_Noeul_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'PT_Noeul_Bold'; /* 평택노을체 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongtaek-si/PT_Noeul_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'PT_Bandoche_Regular'; /* 평택반도체 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongtaek-si/PT_Bandoche_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'PT_Bandoche_Bold'; /* 평택반도체 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongtaek-si/PT_Bandoche_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'PT_Anbo_Regular'; /* 평택안보체 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongtaek-si/PT_Anbo_Regular.woff2') format('woff2');
+}
