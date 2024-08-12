@@ -1137,3 +1137,24 @@
     font-family: 'PT_Anbo_Regular'; /* 평택안보체 Regular */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongtaek-si/PT_Anbo_Regular.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'JNE_Ttobak_Extrabold'; /* 전남교육또박체 ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/JNE/JNE_Ttobak_Extrabold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'JNE_Bareun_Light'; /* 전남교육바른체 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/JNE/JNE_Bareun_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'JNE_Bareun'; /* 전남교육바른체 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/JNE/JNE_Bareun.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'JNE_Yuna'; /* 전남교육유나체 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/JNE/JNE_Yuna.woff2') format('woff2');
+}
+
