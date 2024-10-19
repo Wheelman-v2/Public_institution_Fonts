@@ -1158,3 +1158,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/JNE/JNE_Yuna.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Bobaesum_Jindo'; /* 보배섬진도체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jin-do/Bobaesum_Jindo.woff2') format('woff2');
+}
+
