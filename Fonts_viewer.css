@@ -269,7 +269,7 @@ details>.sentence {
 
 /* 라이선스 테이블 스타일 수정 */
 #license {
-  border: 1px #a39485 solid;
+  border: none;    /* 기존 코드 border: 1px #a39485 solid; */
   font-size: .9em;
   box-shadow: 0 2px 5px rgba(0, 0, 0, .25);
   width: 100%;
