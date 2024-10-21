@@ -1164,6 +1164,21 @@
 }
 
 @font-face {
+    font-family: 'Gumi_Dotum'; /* 구미돋움체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gumi-si/Gumi_Dotum.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gumi_Industry'; /* 구미첨단산업체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gumi-si/Gumi_Industry.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Gumi_Romance'; /* 낭만있구미체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gumi-si/Gumi_Romance.woff2') format('woff2');
+}
+
+@font-face {
     font-family: 'YeongamWolchulsan'; /* 영암월출산체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongam-gun/YeongamWolchulsan.woff2') format('woff2');
 }
