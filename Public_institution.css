@@ -1183,3 +1183,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongam-gun/YeongamWolchulsan.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Mungyeong_Gamhong_Apple'; /* 문경 감홍사과체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mungyeong-si/Mungyeong_Gamhong_Apple.woff2') format('woff2');
+}
+
