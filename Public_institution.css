@@ -859,31 +859,6 @@
 }
 
 @font-face {
-    font-family: 'Chilgok_Kaj'; /* 칠곡할매_권안자체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Kaj.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'Chilgok_kyb'; /* 칠곡할매_김영분체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_kyb.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'Chilgok_lws'; /* 칠곡할매_이원순체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_lws.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'Chilgok_ljh'; /* 칠곡할매_이종희체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_ljh.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'Chilgok_Cye'; /* 칠곡할매_추유을체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Cye.woff2') format('woff2');
-}
-
-@font-face {
     font-family: 'Saenggeo_Jincheon'; /* 생거진천체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jincheon-gun/Saenggeo_Jincheon.woff2') format('woff2');
 }
@@ -1186,5 +1161,60 @@
 @font-face {
     font-family: 'Mungyeong_Gamhong_Apple'; /* 문경 감홍사과체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mungyeong-si/Mungyeong_Gamhong_Apple.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chilgok_Halmez'; /* 칠곡 할매즈 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Halmez.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chilgok_Kaj2_Regular'; /* 칠곡할매 권안자체2-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Kaj2_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chilgok_Kaj2_Bold'; /* 칠곡할매 권안자체2-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Kaj2_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chilgok_Kyb2_Regular'; /* 칠곡할매 김영분체2-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Kyb2_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chilgok_Kyb2_Bold'; /* 칠곡할매 김영분체2-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Kyb2_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chilgok_Lws2_Regular'; /* 칠곡할매 이원순체2-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Lws2_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chilgok_Lws2_Bold'; /* 칠곡할매 이원순체2-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Lws2_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chilgok_Ljh2_Regular'; /* 칠곡할매 이종희체2-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Ljh2_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chilgok_Ljh2_Bold'; /* 칠곡할매 이종희체2-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Ljh2_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chilgok_Cye2_Regular'; /* 칠곡할매 추유을체2-Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Cye2_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Chilgok_Cye2_Bold'; /* 칠곡할매 추유을체2-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Cye2_Bold.woff2') format('woff2');
 }
 
