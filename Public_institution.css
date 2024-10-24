@@ -499,8 +499,18 @@
 }
 
 @font-face {
-    font-family: 'Yeongdo'; /* 영도체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdo-gu/Yeongdo.woff2') format('woff2');
+    font-family: 'Yeongdo-Regular'; /* 영도체 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdo-gu/Yeongdo-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Yeongdo-Bold'; /* 영도체 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdo-gu/Yeongdo-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Yeongdo-Heavy'; /* 영도체 Heavy */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdo-gu/Yeongdo-Heavy.woff2') format('woff2');
 }
 
 @font-face {
