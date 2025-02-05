@@ -1228,3 +1228,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Cye2_Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Peoplefirst_IL'; /* 피플퍼스트 자립 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Peoplefirst/Peoplefirst_IL.woff2') format('woff2');
+}
+
