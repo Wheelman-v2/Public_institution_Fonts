@@ -1233,3 +1233,18 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Peoplefirst/Peoplefirst_IL.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'KOROAD_Light'; /* KOROAD체 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KOROAD/KOROAD_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KOROAD_Medium'; /* KOROAD체 Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KOROAD/KOROAD_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'KOROAD_Bold'; /* KOROAD체 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KOROAD/KOROAD_Bold.woff2') format('woff2');
+}
+
