@@ -1248,3 +1248,18 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KOROAD/KOROAD_Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'ANDONG_264'; /* 안동 이육사체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Andong-si/ANDONG_264.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Marines_Regular'; /* 무적해병체 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Marines/Marines_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Marines_Bold'; /* 무적해병체 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Marines/Marines_Bold.woff2') format('woff2');
+}
+
