@@ -1268,3 +1268,7 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/DCU/DaeguCatholicUniversity.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'SinchonRhapsody'; /* 신촌랩소디 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seodaemun-gu/SinchonRhapsody.woff2') format('woff2');
+}
