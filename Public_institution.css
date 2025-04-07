@@ -1263,3 +1263,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Marines/Marines_Bold.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'DaeguCatholicUniversity'; /* 대구가톨릭대학체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/DCU/DaeguCatholicUniversity.woff2') format('woff2');
+}
+
