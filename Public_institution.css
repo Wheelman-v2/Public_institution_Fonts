@@ -1272,3 +1272,9 @@
     font-family: 'SinchonRhapsody'; /* 신촌랩소디 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seodaemun-gu/SinchonRhapsody.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'DONGGUK_UNIVERSITY'; /* 동국체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/DGU/DONGGUK_UNIVERSITY.woff2') format('woff2');
+}
+
