@@ -514,6 +514,21 @@
 }
 
 @font-face {
+    font-family: 'Yeongdo-Regular'; /* 영도체 Regular */
+    src: url('https://fastly.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdo-gu/Yeongdo-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Yeongdo-Bold'; /* 영도체 Bold */
+    src: url('https://fastly.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdo-gu/Yeongdo-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Yeongdo-Heavy'; /* 영도체 Heavy */
+    src: url('https://fastly.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdo-gu/Yeongdo-Heavy.woff2') format('woff2');
+}
+
+@font-face {
     font-family: 'Yydimibang_Bold'; /* 영양군 음식디미방체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongyang-gun/Yydimibang_Bold.woff') format('woff');
 }
