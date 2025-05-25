@@ -1293,3 +1293,22 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/DGU/DONGGUK_UNIVERSITY.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'SeoulAlrim_Medium'; /* 서울알림체-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulAlrim_Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SeoulAlrim_Bold'; /* 서울알림체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulAlrim_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SeoulAlrim_ExtraBold'; /* 서울알림체-ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulAlrim_ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SeoulAlrim_Heavy'; /* 서울알림체-Heavy */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulAlrim_Heavy.woff2') format('woff2');
+}
