@@ -1322,3 +1322,14 @@
     font-family: 'SacheonHangGong_Regular'; /* 사천항공-Regular */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sacheon-si/SacheonHangGong_Regular.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'EunpyeongSagaDogseo_Text'; /* 은평사가독서체_본문용 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Eunpyeong-gu/EunpyeongSagaDogseo_Text.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'EunpyeongSagaDogseo_Title'; /* 은평사가독서체_제목용 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Eunpyeong-gu/EunpyeongSagaDogseo_Title.woff2') format('woff2');
+}
+
