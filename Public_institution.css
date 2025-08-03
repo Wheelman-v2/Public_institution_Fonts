@@ -1333,3 +1333,12 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Eunpyeong-gu/EunpyeongSagaDogseo_Title.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'Skyblessing_Inje'; /* 하늘내린 인제체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Inje-gun/Skyblessing_Inje.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Yeongwol_TTF'; /* 영월체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongwol-gun/Yeongwol_TTF.woff2') format('woff2');
+}
