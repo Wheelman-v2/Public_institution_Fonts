@@ -1342,3 +1342,33 @@
     font-family: 'Yeongwol_TTF'; /* 영월체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongwol-gun/Yeongwol_TTF.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Sumunjang_BodyL'; /* 경복궁 수문장_본문L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sumunjang/Sumunjang_BodyL.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Sumunjang_BodyM'; /* 경복궁 수문장_본문M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sumunjang/Sumunjang_BodyM.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Sumunjang_BodyB'; /* 경복궁 수문장_본문B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sumunjang/Sumunjang_BodyB.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sumunjang_TitleL'; /* 경복궁 수문장_제목L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sumunjang/Sumunjang_TitleL.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Sumunjang_TitleM'; /* 경복궁 수문장_제목M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sumunjang/Sumunjang_TitleM.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Sumunjang_TitleB'; /* 경복궁 수문장_제목B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sumunjang/Sumunjang_TitleB.woff') format('woff');
+}
