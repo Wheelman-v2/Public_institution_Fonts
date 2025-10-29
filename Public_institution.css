@@ -1378,3 +1378,7 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gwangbok/Gwangbok_LeeEunSuk.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'NYJ_Unheo'; /* 남양주 운허체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Namyangju-si/NYJ_Unheo.woff2') format('woff2');
+}
