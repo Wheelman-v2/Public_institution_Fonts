@@ -1382,3 +1382,10 @@
     font-family: 'NYJ_Unheo'; /* 남양주 운허체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Namyangju-si/NYJ_Unheo.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'SejongJaeumiMoeumi-Color'; /* 세종자으미모으미 컬러 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sejong-si/SejongJaeumiMoeumi-Color.woff') format('woff');
+}
+
+
