@@ -1389,11 +1389,6 @@
 }
 
 @font-face {
-    font-family: 'ADD_font_TTF'; /* 국방과학연구소체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ADD/ADD_font_TTF.woff2') format('woff2');
-}
-
-@font-face {
     font-family: 'YeoncheonMisu'; /* 연천 미수체 R */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeoncheon-gun/YeoncheonMisu.woff2') format('woff2');
 }
@@ -1402,4 +1397,5 @@
     font-family: 'YeoncheonHeomok'; /* 연천 허목체 R */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeoncheon-gun/YeoncheonHeomok.woff2') format('woff2');
 }
+
 
