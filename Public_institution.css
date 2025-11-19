@@ -1403,3 +1403,29 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Changwon-si/ChangwonDangamRound.woff2') format('woff2');
 }
 
+
+@font-face {
+    font-family: 'Daegu_Dongseongro_Bold'; /* 대구동성로 Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Daegujunggucheong/Daegu_Dongseongro_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Daegu_Dongseongro_Regular'; /* 대구동성로 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Daegujunggucheong/Daegu_Dongseongro_Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Daegu_Bukseongro_ExtraBold'; /* 대구북성로 Extrabold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Daegujunggucheong/Daegu_Bukseongro_ExtraBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Daegu_Bukseongro_Light'; /* 대구북성로 Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Daegujunggucheong/Daegu_Bukseongro_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'DaeguJunggu_Eubseong_Regular'; /* 대구중구읍성 Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Daegujunggucheong/DaeguJunggu_Eubseong_Regular.woff2') format('woff2');
+}
+
