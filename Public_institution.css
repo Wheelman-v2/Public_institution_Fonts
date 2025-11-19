@@ -1398,4 +1398,8 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeoncheon-gun/YeoncheonHeomok.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'ChangwonDangamRound'; /* 창원단감둥근 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Changwon-si/ChangwonDangamRound.woff2') format('woff2');
+}
 
