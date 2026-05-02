@@ -1429,3 +1429,17 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Daegujunggucheong/DaeguJunggu_Eubseong_Regular.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'MUNMAK_DALBANCHE'; /* 문막초_달반체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Munmakcho/MUNMAK_DALBANCHE.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'MUNMAK_BYEOLBANCHE'; /* 문막초_별반체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Munmakcho/MUNMAK_BYEOLBANCHE.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'MUNMAK_HAEBANCHE'; /* 문막초_해반체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Munmakcho/MUNMAK_HAEBANCHE.woff2') format('woff2');
+}
