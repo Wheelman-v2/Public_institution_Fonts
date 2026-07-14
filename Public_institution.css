@@ -1443,3 +1443,8 @@
     font-family: 'MUNMAK_HAEBANCHE'; /* 문막초_해반체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Munmakcho/MUNMAK_HAEBANCHE.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'HiKR_ExraBold'; /* 하이커-ExtraBold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KTO/HiKR_ExraBold.woff2') format('woff2');
+}
