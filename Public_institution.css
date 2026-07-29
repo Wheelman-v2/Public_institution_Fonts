@@ -1448,3 +1448,14 @@
     font-family: 'HiKR_ExraBold'; /* 하이커-ExtraBold */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KTO/HiKR_ExraBold.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'Wonju_TTF_Bold'; /* 원주체TTF Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wonju-si/Wonju_TTF_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Wonju_TTF_Regular'; /* 원주체TTF Regular */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wonju-si/Wonju_TTF_Regular.woff2') format('woff2');
+}
+
