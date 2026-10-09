@@ -1459,3 +1459,18 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wonju-si/Wonju_TTF_Regular.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'MalmoiChe_Bold'; /* 말모이체-Bold */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/hangeul/MalmoiChe_Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'MalmoiChe_Light'; /* 말모이체-Light */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/hangeul/MalmoiChe_Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'MalmoiChe_Medium'; /* 말모이체-Medium */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/hangeul/MalmoiChe_Medium.woff2') format('woff2');
+}
+
