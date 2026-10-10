@@ -1474,3 +1474,12 @@
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/hangeul/MalmoiChe_Medium.woff2') format('woff2');
 }
 
+@font-face {
+    font-family: 'busangyoyukdahamkkegoeun'; /* 부산교육다함께고은체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/PEN/busangyoyukdahamkkegoeun.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ownglyph_beomjun_Regular'; /* 온글잎 범준필기체 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/PEN/Ownglyph_beomjun_Regular.woff2') format('woff2');
+}
