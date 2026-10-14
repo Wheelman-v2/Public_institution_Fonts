@@ -1483,3 +1483,39 @@
     font-family: 'Ownglyph_beomjun_Regular'; /* 온글잎 범준필기체 */
     src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/PEN/Ownglyph_beomjun_Regular.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: 'BusanDandiGothicB'; /* 부산단디고딕B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanDandiGothicB.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BusanDandiGothicL'; /* 부산단디고딕L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanDandiGothicL.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BusanDandiGothicM'; /* 부산단디고딕M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanDandiGothicM.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BusanDandiMyeongjoB'; /* 부산단디명조B */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanDandiMyeongjoB.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BusanDandiMyeongjoL'; /* 부산단디명조L */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanDandiMyeongjoL.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BusanDandiMyeongjoM'; /* 부산단디명조M */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanDandiMyeongjoM.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'BusanDandiScript'; /* 부산단디손글씨 */
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanDandiScript.woff2') format('woff2');
+}
+
