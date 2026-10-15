@@ -1,1521 +1,1825 @@
 @font-face {
     font-family: 'April16th-Life'; /* 사체십육일 생명체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/416/April16th-Life.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/416/April16th-Life.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'April16th-Safety'; /* 사체십육일 안전체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/416/April16th-Safety.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/416/April16th-Safety.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'April16th-Promise'; /* 사체십육일 약속체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/416/April16th-Promise.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/416/April16th-Promise.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: '62570'; /* 62570체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/MPVA/62570.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/MPVA/62570.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GangwonEduAll_Light'; /* 강원교육모두+Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduAll_Light.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/GangwonEdu/GangwonEduAll_Light.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GangwonEduAll_Bold'; /* 강원교육모두+Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduAll_Bold.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/GangwonEdu/GangwonEduAll_Bold.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GangwonEduSaeeum_Medium'; /* 강원교육새음 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduSaeeum_Medium.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/GangwonEdu/GangwonEduSaeeum_Medium.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GangwonEduPower'; /* 강원교육튼튼 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduPower.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/GangwonEdu/GangwonEduPower.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GangwonEduHyeonokT_Medium'; /* 강원교육현옥샘 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GangwonEdu/GangwonEduHyeonokT_Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/GangwonEdu/GangwonEduHyeonokT_Medium.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GANGWON_STATE'; /* 강원특별자치도체-SemiBold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gangwon-do/GANGWON_STATE.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gangwon-do/GANGWON_STATE.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'ROKAF_Slab_Serif_Medium'; /* 강한공군체 Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ROKAF/ROKAF_Slab_Serif_Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/ROKAF/ROKAF_Slab_Serif_Medium.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'ROKAF_Slab_Serif_Bold'; /* 강한공군체 Serif Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ROKAF/ROKAF_Slab_Serif_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/ROKAF/ROKAF_Slab_Serif_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'ROKAF_Sans_Medium'; /* 바른공군체 Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ROKAF/ROKAF_Sans_Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/ROKAF/ROKAF_Sans_Medium.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'ROKAF_Sans_Bold'; /* 바른공군체 Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ROKAF/ROKAF_Sans_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/ROKAF/ROKAF_Sans_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GyeonggiTitle_Light'; /* 경기천년제목_Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gyeonggi-do/GyeonggiTitle_Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gyeonggi-do/GyeonggiTitle_Light.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GyeonggiTitle_Medium'; /* 경기천년제목_Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gyeonggi-do/GyeonggiTitle_Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gyeonggi-do/GyeonggiTitle_Medium.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GyeonggiTitle_Bold'; /* 경기천년제목_Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gyeonggi-do/GyeonggiTitle_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gyeonggi-do/GyeonggiTitle_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GyeonggiTitleV_Bold'; /* 경기천년제목V_Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gyeonggi-do/GyeonggiTitleV_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gyeonggi-do/GyeonggiTitleV_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GyeonggiBatang_Regular'; /* 경기천년바탕_Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gyeonggi-do/GyeonggiBatang_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gyeonggi-do/GyeonggiBatang_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GyeonggiBatang_Bold'; /* 경기천년바탕_Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gyeonggi-do/GyeonggiBatang_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gyeonggi-do/GyeonggiBatang_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Goryeong_Strawberry'; /* 고령딸기체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goryeong-gun/Goryeong_Strawberry.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Goryeong-gun/Goryeong_Strawberry.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Gosanja'; /* 고산자 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NGII/Gosanja.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/NGII/Gosanja.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GoyangDeogyang_B'; /* 고양덕양 B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goyang-si/GoyangDeogyang_B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Goyang-si/GoyangDeogyang_B.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GoyangDeogyang_EB'; /* 고양덕양 EB */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goyang-si/GoyangDeogyang_EB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Goyang-si/GoyangDeogyang_EB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GoyangIlsan_L'; /* 고양일산 L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goyang-si/GoyangIlsan_L.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Goyang-si/GoyangIlsan_L.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GoyangIlsan_R'; /* 고양일산 R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goyang-si/GoyangIlsan_R.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Goyang-si/GoyangIlsan_R.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Gwangyang_Touching'; /* 광양감동체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gwangyang-si/Gwangyang_Touching.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gwangyang-si/Gwangyang_Touching.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Gwangyang_Sunshine_Regular'; /* 광양햇살체_Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gwangyang-si/Gwangyang_Sunshine_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gwangyang-si/Gwangyang_Sunshine_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Gwangyang_Sunshine_Bold'; /* 광양햇살체_Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gwangyang-si/Gwangyang_Sunshine_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gwangyang-si/Gwangyang_Sunshine_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'KNPS_Kkomi'; /* 국립공원 꼬미 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KNPS/KNPS_Kkomi.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/KNPS/KNPS_Kkomi.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'KNPS_Bandali'; /* 국립공원 반달이 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KNPS/KNPS_Bandali.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/KNPS/KNPS_Bandali.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MuseumClassic_Light'; /* 국립박물관문화재단클래식L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NMF/MuseumClassic_Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/NMF/MuseumClassic_Light.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MuseumClassic_Medium'; /* 국립박물관문화재단클래식M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NMF/MuseumClassic_Medium.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/NMF/MuseumClassic_Medium.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MuseumClassic_Bold'; /* 국립박물관문화재단클래식B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NMF/MuseumClassic_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/NMF/MuseumClassic_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'NL'; /* 국립중앙도서관글자체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NL/NL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/NL/NL.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'NP_regular'; /* 국립연금체 regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NP/NP_regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/NP/NP_regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'NP_bold'; /* 국립연금체 bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NP/NP_bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/NP/NP_bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'NP_extrabold'; /* 국립연금체 extrabold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/NP/NP_extrabold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/NP/NP_extrabold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GimpoBatang'; /* 김포 바탕 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gimpo-si/GimpoBatang.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gimpo-si/GimpoBatang.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GimpoTitle'; /* 김포 제목 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gimpo-si/GimpoTitle.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gimpo-si/GimpoTitle.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GimpoGothicRegular'; /* 김포 고딕 Regular*/
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gimpo-si/GimpoGothicRegular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gimpo-si/GimpoGothicRegular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GimpoGothicBold'; /* 김포고딕 Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gimpo-si/GimpoGothicBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gimpo-si/GimpoGothicBold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GimhaeGayaR'; /* 김해가야체 R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gimhae-si/GimhaeGayaR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gimhae-si/GimhaeGayaR.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GimhaeGayaB'; /* 김해가야체 B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gimhae-si/GimhaeGayaB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gimhae-si/GimhaeGayaB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'DalseoDarling'; /* 달서달링체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Dalseo-gu/DalseoDarling.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Dalseo-gu/DalseoDarling.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'DalseoHealing_Medium'; /* 달서힐링체Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Dalseo-gu/DalseoHealing_Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Dalseo-gu/DalseoHealing_Medium.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'DalseoHealingBold'; /* 달서힐링체Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Dalseo-gu/DalseoHealingBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Dalseo-gu/DalseoHealingBold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MapoGoldenPier'; /* Mapo금빛나루 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoGoldenPier.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Mapo-gu/MapoGoldenPier.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MapoFlowerIsland'; /* Mapo꽃섬 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoFlowerIsland.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Mapo-gu/MapoFlowerIsland.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MapoDacapo'; /* Mapo다카포 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoDacapo.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Mapo-gu/MapoDacapo.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MapoDPP'; /* Mapo당인리발전소 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoDPP.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Mapo-gu/MapoDPP.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MapoMaponaru'; /* Mapo마포나루 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoMaponaru.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Mapo-gu/MapoMaponaru.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MapoBackpacking'; /* Mapo배낭여행 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoBackpacking.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Mapo-gu/MapoBackpacking.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MapoAgape'; /* Mapo애민 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoAgape.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Mapo-gu/MapoAgape.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MapoPeacefull'; /* Mapo한아름 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoPeacefull.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Mapo-gu/MapoPeacefull.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MapoHongdaeFreedom'; /* Mapo홍대프리덤 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mapo-gu/MapoHongdaeFreedom.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Mapo-gu/MapoHongdaeFreedom.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MunhwajaeDolbom_Regular'; /* 문화재돌봄체 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/CHA/MunhwajaeDolbom_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/CHA/MunhwajaeDolbom_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MunhwajaeDolbom_Bold'; /* 문화재돌봄체 Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/CHA/MunhwajaeDolbom_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/CHA/MunhwajaeDolbom_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MYArirang'; /* 밀양아리랑체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Miryang-si/MYArirang.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Miryang-si/MYArirang.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MYArirang_gothic'; /* 밀양아리랑고딕체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Miryang-si/MYArirang_gothic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Miryang-si/MYArirang_gothic.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MYYeongnamnu'; /* 밀양영남루체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Miryang-si/MYYeongnamnu.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Miryang-si/MYYeongnamnu.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MYHaemalgeunSangsang'; /* 밀양해맑은상상체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Miryang-si/MYHaemalgeunSangsang.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Miryang-si/MYHaemalgeunSangsang.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'BusanFont_Provisional'; /* 부산체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanFont_Provisional.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Busan-si/BusanFont_Provisional.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Bitgoeul_Light'; /* 빛고을광주_Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gwangju-si/Bitgoeul_Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gwangju-si/Bitgoeul_Light.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Bitgoeul_Medium'; /* 빛고을광주_Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gwangju-si/Bitgoeul_Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gwangju-si/Bitgoeul_Medium.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Bitgoeul_Bold'; /* 빛고을광주_Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gwangju-si/Bitgoeul_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gwangju-si/Bitgoeul_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SeoulNamsan_L'; /* 서울남산L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulNamsan_L.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seoul-si/SeoulNamsan_L.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SeoulNamsan_M'; /* 서울남산M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulNamsan_M.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seoul-si/SeoulNamsan_M.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SeoulNamsan_B'; /* 서울남산B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulNamsan_B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seoul-si/SeoulNamsan_B.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SeoulNamsan_EB'; /* 서울남산EB */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulNamsan_EB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seoul-si/SeoulNamsan_EB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SeoulNamsan_vert'; /* 서울남산vert */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulNamsan_vert.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seoul-si/SeoulNamsan_vert.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SeoulHangang_L'; /* 서울한강L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulHangang_L.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seoul-si/SeoulHangang_L.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SeoulHangang_M'; /* 서울한강M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulHangang_M.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seoul-si/SeoulHangang_M.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SeoulHangang_B'; /* 서울한강B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulHangang_B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seoul-si/SeoulHangang_B.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SeoulHangang_EB'; /* 서울한강EB */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulHangang_EB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seoul-si/SeoulHangang_EB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SungDong_Gothic_B'; /* 성동고딕 B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seongdong-gu/SungDong_Gothic_B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seongdong-gu/SungDong_Gothic_B.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SungDong_Gothic_EB'; /* 성동고딕 EB */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seongdong-gu/SungDong_Gothic_EB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seongdong-gu/SungDong_Gothic_EB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SungDong_Myungjo_R'; /* 성동명조 R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seongdong-gu/SungDong_Myungjo_R.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seongdong-gu/SungDong_Myungjo_R.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SejongGeulggot'; /* 세종글꽃체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sejong-si/SejongGeulggot.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sejong-si/SejongGeulggot.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SOYO_Maple_Regular'; /* 소요단풍체 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Dongducheon-si/SOYO_Maple_Regular_TTF.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Dongducheon-si/SOYO_Maple_Regular_TTF.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SOYO_Maple_Bold'; /* 소요단풍체 Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Dongducheon-si/SOYO_Maple_Bold_TTF.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Dongducheon-si/SOYO_Maple_Bold_TTF.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Suseong_Dotum'; /* 수성돋움체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Suseong-gu/Suseong_Dotum.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Suseong-gu/Suseong_Dotum.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Suseong_Batang'; /* 수성바탕체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Suseong-gu/Suseong_Batang.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Suseong-gu/Suseong_Batang.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Suseong_Hyejeong'; /* 수성혜정체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Suseong-gu/Suseong_Hyejeong.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Suseong-gu/Suseong_Hyejeong.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Suncheon_R'; /* 순천R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Suncheon-si/Suncheon_R.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Suncheon-si/Suncheon_R.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Suncheon_B'; /* 순천B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Suncheon-si/Suncheon_B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Suncheon-si/Suncheon_B.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'YiSunShin_Regular'; /* 이순신Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Regular.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Asan-si/YiSunShin_Regular.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'YiSunShin_Bold'; /* 이순신Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Bold.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Asan-si/YiSunShin_Bold.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'YiSunShin_Dotum_L'; /* 이순신돋움체L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Dotum_L.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Asan-si/YiSunShin_Dotum_L.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'YiSunShin_Dotum_M'; /* 이순신돋움체M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Dotum_M.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Asan-si/YiSunShin_Dotum_M.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'YiSunShin_Dotum_B'; /* 이순신돋움체B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Asan-si/YiSunShin_Dotum_B.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Asan-si/YiSunShin_Dotum_B.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'AndongKaturi'; /* 안동엄마까투리 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Andong-si/AndongKaturi.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Andong-si/AndongKaturi.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'AndongWolyeonggyo'; /* 안동월영교 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Andong-si/AndongWolyeonggyo.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Andong-si/AndongWolyeonggyo.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'YangPyeong_L'; /* 양평군체_L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yangpyeong-gun/YangPyeong_L.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yangpyeong-gun/YangPyeong_L.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'YangPyeong_M'; /* 양평군체_M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yangpyeong-gun/YangPyeong_M.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yangpyeong-gun/YangPyeong_M.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'YangPyeong_B'; /* 양평군체_B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yangpyeong-gun/YangPyeong_B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yangpyeong-gun/YangPyeong_B.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Yeongdeok_Snow_Crab'; /* 영덕대게체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdeok-gun/Yeongdeok_Snow_Crab.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yeongdeok-gun/Yeongdeok_Snow_Crab.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Yeongdeok_Sea'; /* 영덕바다체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdeok-gun/Yeongdeok_Sea.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yeongdeok-gun/Yeongdeok_Sea.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Yeongdeok_Blueroad'; /* 영덕블루로드체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdeok-gun/Yeongdeok_Blueroad.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yeongdeok-gun/Yeongdeok_Blueroad.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Yeongdeok_Haeparang'; /* 영덕해파랑체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdeok-gun/Yeongdeok_Haeparang.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yeongdeok-gun/Yeongdeok_Haeparang.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Yeongdo-Regular'; /* 영도체 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdo-gu/Yeongdo-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yeongdo-gu/Yeongdo-Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Yeongdo-Bold'; /* 영도체 Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdo-gu/Yeongdo-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yeongdo-gu/Yeongdo-Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Yeongdo-Heavy'; /* 영도체 Heavy */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdo-gu/Yeongdo-Heavy.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yeongdo-gu/Yeongdo-Heavy.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Yeongdo-Regular'; /* 영도체 Regular */
     src: url('https://fastly.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdo-gu/Yeongdo-Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Yeongdo-Bold'; /* 영도체 Bold */
     src: url('https://fastly.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdo-gu/Yeongdo-Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Yeongdo-Heavy'; /* 영도체 Heavy */
     src: url('https://fastly.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongdo-gu/Yeongdo-Heavy.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Yydimibang_Bold'; /* 영양군 음식디미방체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongyang-gun/Yydimibang_Bold.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yeongyang-gun/Yydimibang_Bold.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'YEONGJUPunggiGinseng'; /* 영주풍기인삼체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongju-si/YEONGJUPunggiGinseng_TTF.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yeongju-si/YEONGJUPunggiGinseng_TTF.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'ChusaLove'; /* 추사사랑 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yesan-gun/ChusaLove.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yesan-gun/ChusaLove.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'ChusaLoveB'; /* 추사사랑Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yesan-gun/ChusaLoveB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yesan-gun/ChusaLoveB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'WandocleanseaR'; /* 완도청정바다체R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wando-gun/WandocleanseaR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Wando-gun/WandocleanseaR.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'WandocleanseaB'; /* 완도청정바다체B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wando-gun/WandocleanseaB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Wando-gun/WandocleanseaB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'WandohopeR'; /* 완도희망체R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wando-gun/WandohopeR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Wando-gun/WandohopeR.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'WandohopeB'; /* 완도희망체B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wando-gun/WandohopeB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Wando-gun/WandohopeB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Wanjunuriche_Regular'; /* 완주누리체 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wanju-gun/Wanjunuriche_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Wanju-gun/Wanjunuriche_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Wanjudaedunsanche_Regular'; /* 완주대둔산체 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wanju-gun/Wanjudaedunsanche_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Wanju-gun/Wanjudaedunsanche_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Wanjudaedunsanche_Bold'; /* 완주대둔산체 Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wanju-gun/Wanjudaedunsanche_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Wanju-gun/Wanjudaedunsanche_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'iceSotong_Regular'; /* 인천교육소통 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ICE/iceSotong_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/ICE/iceSotong_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'iceSimin_Regular'; /* 인천교육시민 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ICE/iceSimin_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/ICE/iceSimin_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'iceJaram_Regular'; /* 인천교육자람 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ICE/iceJaram_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/ICE/iceJaram_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'iceHimchan_Regular'; /* 인천교육힘찬 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ICE/iceHimchan_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/ICE/iceHimchan_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PureunJeonnam'; /* 푸른전남 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeollanam-do/PureunJeonnam.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeollanam-do/PureunJeonnam.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PureunJeonnamM'; /* 푸른전남-Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeollanam-do/PureunJeonnamM.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeollanam-do/PureunJeonnamM.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PureunJeonnamB'; /* 푸른전남-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeollanam-do/PureunJeonnamB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeollanam-do/PureunJeonnamB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JeollabukdoL'; /* 전라북도체L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeollabuk-do/JeollabukdoL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeollabuk-do/JeollabukdoL.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JeollabukdoM'; /* 전라북도체M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeollabuk-do/JeollabukdoM.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeollabuk-do/JeollabukdoM.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JeonjuWanGakL'; /* 전주완판본 각L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanGakL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeonju-si/JeonjuWanGakL.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JeonjuWanGakR'; /* 전주완판본 각R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanGakR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeonju-si/JeonjuWanGakR.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JeonjuWanGakB'; /* 전주완판본 각B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanGakB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeonju-si/JeonjuWanGakB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JeonjuWanSunL'; /* 전주완판본 순L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanSunL.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeonju-si/JeonjuWanSunL.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JeonjuWanSunR'; /* 전주완판본 순R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanSunR.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeonju-si/JeonjuWanSunR.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JeonjuWanSunB'; /* 전주완판본 순B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeonju-si/JeonjuWanSunB.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeonju-si/JeonjuWanSunB.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JS_Arirang'; /* 정선아리랑 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeongseon-gun/JS_Arirang.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeongseon-gun/JS_Arirang.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JS_Arirang_HON'; /* 정선아리랑 혼 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeongseon-gun/JS_Arirang_HON.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeongseon-gun/JS_Arirang_HON.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JS_Arirang_PPURI'; /* 정성아리랑 뿌리 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeongseon-gun/JS_Arirang_PPURI.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeongseon-gun/JS_Arirang_PPURI.woff2') format('woff2');
+    font-display: swap;
 }
 @font-face {
     font-family: 'JS_Dongkang'; /* 정선동강-Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeongseon-gun/JS_Dongkang.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeongseon-gun/JS_Dongkang.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JS_DongkangB'; /* 정선동강-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeongseon-gun/JS_DongkangB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeongseon-gun/JS_DongkangB.woff2') format('woff2');
+    font-display: swap;
 }
 
 
 @font-face {
     font-family: 'JejuGothic'; /* 제주고딕 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeju-do/JejuGothic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeju-do/JejuGothic.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JejuMyeongjo'; /* 제주명조 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeju-do/JejuMyeongjo.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeju-do/JejuMyeongjo.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JejuHallasan'; /* 제주한라산 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jeju-do/JejuHallasan.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jeju-do/JejuHallasan.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'ChangwonDangamAsac'; /* 창원단감아삭-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Changwon-si/ChangwonDangamAsac.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Changwon-si/ChangwonDangamAsac.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'TAEBAEK_font'; /* 태백체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/TAEBAEK_font.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Taebaek-si/TAEBAEK_font.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'TAEBAEK_milkyway'; /* 태백은하수체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/TAEBAEK_milkyway.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Taebaek-si/TAEBAEK_milkyway.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PyeongChangL'; /* 평창체-Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongchang-gun/PyeongChangL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Pyeongchang-gun/PyeongChangL.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PyeongChangB'; /* 평창체-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongchang-gun/PyeongChangB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Pyeongchang-gun/PyeongChangB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PyeongChang_PeaceL'; /* 평창 평화체-Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongchang-gun/PyeongChang_PeaceL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Pyeongchang-gun/PyeongChang_PeaceL.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PyeongChang_PeaceB'; /* 평창 평화체-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongchang-gun/PyeongChang_PeaceB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Pyeongchang-gun/PyeongChang_PeaceB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PyeongchangAreumDareum'; /* 평창아름다름체 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongchang-gun/PyeongchangAreumDareum.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Pyeongchang-gun/PyeongchangAreumDareum.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PyeongchangDalogae'; /* 평창월오개체 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongchang-gun/PyeongchangDalogae.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Pyeongchang-gun/PyeongchangDalogae.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Makgeolli'; /* 포천 막걸리체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pocheon-si/Makgeolli.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Pocheon-si/Makgeolli.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'OSeong_and_HanEum_Regular'; /* 포천 오성과 한음-Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pocheon-si/OSeong_and_HanEum_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Pocheon-si/OSeong_and_HanEum_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'OSeong_and_HanEum_Bold'; /* 포천 오성과 한음-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pocheon-si/OSeong_and_HanEum_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Pocheon-si/OSeong_and_HanEum_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'HANAMDAUM'; /* 하남다움체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Hanam-si/HANAMDAUM.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Hanam-si/HANAMDAUM.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'HANAMDAUM_Body'; /* 하남다움체 본문 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Hanam-si/HANAMDAUM_Body.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Hanam-si/HANAMDAUM_Body.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'KHNPHandotumR'; /* 한수원_한돋음_R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KHNP/KHNPHandotumR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/KHNP/KHNPHandotumR.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'KHNPHandotumB'; /* 한수원_한돋음_B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KHNP/KHNPHandotumB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/KHNP/KHNPHandotumB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'KHNPHanuoolim'; /* 한수원_한울림_R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KHNP/KHNPHanuoolim.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/KHNP/KHNPHanuoolim.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Haenam'; /* 해남체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Haenam-gun/HaenamFont.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Haenam-gun/HaenamFont.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'HappyGoheungL'; /* 행복고흥L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goheung-gun/HappyGoheungL.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Goheung-gun/HappyGoheungL.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'HappyGoheungM'; /* 행복고흥M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goheung-gun/HappyGoheungM.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Goheung-gun/HappyGoheungM.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'HappyGoheungB'; /* 행복고흥B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Goheung-gun/HappyGoheungB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Goheung-gun/HappyGoheungB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'EnvironmentR'; /* 환경R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ME/EnvironmentR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/ME/EnvironmentR.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'EnvironmentB'; /* 환경B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ME/EnvironmentB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/ME/EnvironmentB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Hoengseong_Hanu'; /* 횡성한우체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Hoengseong-gun/Hoengseong_Hanu.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Hoengseong-gun/Hoengseong_Hanu.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'NYJ_Dasan_M'; /* 남양주 다산 M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Namyangju-si/NYJ_Dasan_M.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Namyangju-si/NYJ_Dasan_M.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'NYJ_Dasan_B'; /* 남양주 다산 B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Namyangju-si/NYJ_Dasan_B.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Namyangju-si/NYJ_Dasan_B.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'NYJGothicR'; /* 남양주고딕Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Namyangju-si/NYJGothicR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Namyangju-si/NYJGothicR.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'NYJGothicM'; /* 남양주고딕Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Namyangju-si/NYJGothicM.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Namyangju-si/NYJGothicM.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'NYJGothicB'; /* 남양주고딕Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Namyangju-si/NYJGothicB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Namyangju-si/NYJGothicB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'NYJGothicEB'; /* 남양주고딕Extra Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Namyangju-si/NYJGothicEB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Namyangju-si/NYJGothicEB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'dobong'; /* 도봉옛길체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/DCI/dobong.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/DCI/dobong.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'CHEONGDO(L)'; /* 청도읍성체(L) */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Cheongdo-gun/CHEONGDO(L).woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Cheongdo-gun/CHEONGDO(L).woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'CHEONGDO(M)'; /* 청도읍성체(M) */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Cheongdo-gun/CHEONGDO(M).woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Cheongdo-gun/CHEONGDO(M).woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SANGJU_Gyeongcheon_Island'; /* 상주경천섬체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sangju-si/SANGJU_Gyeongcheon_Island.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sangju-si/SANGJU_Gyeongcheon_Island.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SANGJU_Gotgam'; /* 상주곶감체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sangju-si/SANGJU_Gotgam.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sangju-si/SANGJU_Gotgam.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SANGJU_Dajungdagam'; /* 상주다정다감체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sangju-si/SANGJU_Dajungdagam.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sangju-si/SANGJU_Dajungdagam.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SANGJU_Haerye'; /* 상주해례본체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sangju-si/SANGJU_Haerye.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sangju-si/SANGJU_Haerye.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Saenggeo_Jincheon'; /* 생거진천체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jincheon-gun/Saenggeo_Jincheon.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jincheon-gun/Saenggeo_Jincheon.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SLEI_Gothic_TTF'; /* 서평원 꺾깎체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/SLEI/SLEI_Gothic_TTF.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/SLEI/SLEI_Gothic_TTF.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Solmoe_KimDaeGeon_Light'; /* 솔뫼 김대건 Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Saint-KDG/Solmoe_KimDaeGeon_Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Saint-KDG/Solmoe_KimDaeGeon_Light.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Solmoe_KimDaeGeon_Medium'; /* 솔뫼 김대건 Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Saint-KDG/Solmoe_KimDaeGeon_Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Saint-KDG/Solmoe_KimDaeGeon_Medium.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'ShinDongYup_Handwriting-R'; /* 신동엽손글씨-R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Buyeo-gun/ShinDongYup_Handwriting-R.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Buyeo-gun/ShinDongYup_Handwriting-R.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'ShinDongYup_Handwriting-B'; /* 신동엽손글씨-B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Buyeo-gun/ShinDongYup_Handwriting-B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Buyeo-gun/ShinDongYup_Handwriting-B.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Jeongnimsaji-R'; /* 정림사지 R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Buyeo-gun/Jeongnimsaji-R.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Buyeo-gun/Jeongnimsaji-R.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Jeongnimsaji-B'; /* 정림사지 B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Buyeo-gun/Jeongnimsaji-B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Buyeo-gun/Jeongnimsaji-B.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Gapyeong_Wave'; /* 가평물결 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gapyeong-gun/Gapyeong_Wave.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gapyeong-gun/Gapyeong_Wave.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Gapyeong_HanseokbongL'; /* 가평한석봉 가는붓 L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gapyeong-gun/Gapyeong_HanseokbongL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gapyeong-gun/Gapyeong_HanseokbongL.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Gapyeong_HanseokbongR'; /* 가평한석봉 중간붓 R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gapyeong-gun/Gapyeong_HanseokbongR.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gapyeong-gun/Gapyeong_HanseokbongR.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Gapyeong_HanseokbongB'; /* 가평한석봉 큰붓 B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gapyeong-gun/Gapyeong_HanseokbongB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gapyeong-gun/Gapyeong_HanseokbongB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'ChungjuKimSaeng'; /* 충주김생체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chungju-si/ChungjuKimSaeng.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Chungju-si/ChungjuKimSaeng.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'ACCchildrenfall'; /* ACC어린이가을담은체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ACC/ACCchildrenfall.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/ACC/ACCchildrenfall.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'ACCchildrenheart'; /* ACC어린이마음고운체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ACC/ACCchildrenheart.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/ACC/ACCchildrenheart.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'ACCchildrensky'; /* ACC어린이하늘맑은체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ACC/ACCchildrensky.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/ACC/ACCchildrensky.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'KoddiUD_OnGothic_R'; /* KoddiUD 온고딕 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Koddi/KoddiUD_OnGothic_R.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Koddi/KoddiUD_OnGothic_R.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'KoddiUD_OnGothic_B'; /* KoddiUD 온고딕 Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Koddi/KoddiUD_OnGothic_B.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Koddi/KoddiUD_OnGothic_B.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'KoddiUD_OnGothic_EB'; /* KoddiUD 온고딕 ExtraBold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Koddi/KoddiUD_OnGothic_EB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Koddi/KoddiUD_OnGothic_EB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Sokcho_Bada_Dotum'; /* 속초바다 돋움체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sokcho-si/Sokcho_Bada_Dotum.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sokcho-si/Sokcho_Bada_Dotum.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Sokcho_Bada_Batang'; /* 속초바다 바탕체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sokcho-si/Sokcho_Bada_Batang.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sokcho-si/Sokcho_Bada_Batang.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Sokcho_Bada_Calligraphy'; /* 속초바다 손글씨체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sokcho-si/Sokcho_Bada_Calligraphy.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sokcho-si/Sokcho_Bada_Calligraphy.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Ownglyph_2022_UWY_Si_Woo'; /* 온글잎 의청수 시우체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/UWY/Ownglyph_2022_UWY_Si_Woo.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/UWY/Ownglyph_2022_UWY_Si_Woo.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Ownglyph_2022_UWY_Yoon_Yeong'; /* 온글잎 의청수 윤영체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/UWY/Ownglyph_2022_UWY_Yoon_Yeong.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/UWY/Ownglyph_2022_UWY_Yoon_Yeong.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Ownglyph_2022_UWY_Da_Gyeong'; /* 온글잎_의청수_다경체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/UWY/Ownglyph_2022_UWY_Da_Gyeong.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/UWY/Ownglyph_2022_UWY_Da_Gyeong.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Ownglyph_2022_UWY_Jae_Seon'; /* 온글잎_의청수_재선체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/UWY/Ownglyph_2022_UWY_Jae_Seon.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/UWY/Ownglyph_2022_UWY_Jae_Seon.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Ownglyph_2022_UWY_Joo_Bin'; /* 온글잎_의청수_주빈체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/UWY/Ownglyph_2022_UWY_Joo_Bin.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/UWY/Ownglyph_2022_UWY_Joo_Bin.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GOSEONG_GEUMGANGNURI'; /* 고성 금강누리체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gosung-gun/GOSEONG_GEUMGANGNURI.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gosung-gun/GOSEONG_GEUMGANGNURI.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GamtanRoad_Gamtan'; /* 감탄로드감탄체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Gamtan.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Taebaek-si/GamtanRoad_Gamtan.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GamtanRoad_Tantan'; /* 감탄로드탄탄체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Tantan.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Taebaek-si/GamtanRoad_Tantan.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GamtanRoad_Dotum_Thin'; /* 감탄로드돋움체 Thin */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Dotum_Thin.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Taebaek-si/GamtanRoad_Dotum_Thin.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GamtanRoad_Dotum_Regular'; /* 감탄로드돋움체 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Dotum_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Taebaek-si/GamtanRoad_Dotum_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GamtanRoad_Dotum_Bold'; /* 감탄로드돋움체 Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Dotum_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Taebaek-si/GamtanRoad_Dotum_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GamtanRoad_Batang_Thin'; /* 감탄로드바탕체 Thin */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Batang_Thin.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Taebaek-si/GamtanRoad_Batang_Thin.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GamtanRoad_Batang_Regular'; /* 감탄로드바탕체 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Batang_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Taebaek-si/GamtanRoad_Batang_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'GamtanRoad_Batang_Bold'; /* 감탄로드바탕체 Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Taebaek-si/GamtanRoad_Batang_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Taebaek-si/GamtanRoad_Batang_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'WagleWagle'; /* 와글와글 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/GoyangCM/WagleWagle.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/GoyangCM/WagleWagle.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'YEONGJUSeonbi'; /* 영주선비체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongju-si/YEONGJUSeonbi.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yeongju-si/YEONGJUSeonbi.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'YeojuCeramic'; /* 여주도자체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeoju-si/YeojuCeramic.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yeoju-si/YeojuCeramic.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'WAGURI'; /* 와구리체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Guri-si/WAGURI.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Guri-si/WAGURI.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Yangju_Byeolsan'; /* 양주 별산체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/YangJu-si/Yangju_Byeolsan.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/YangJu-si/Yangju_Byeolsan.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Peoplefirst_Neat&Loud'; /* 피플퍼스트 또박 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Peoplefirst/Peoplefirst_Neat&Loud.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Peoplefirst/Peoplefirst_Neat&Loud.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Peoplefirst_Fighting'; /* 피플퍼스트 투쟁 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Peoplefirst/Peoplefirst_Fighting.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Peoplefirst/Peoplefirst_Fighting.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Yoon_Childfundkorea_DaeHan'; /* Yoon 초록우산어린이 대한 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ChildFund/Yoon_Childfundkorea_DaeHan.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/ChildFund/Yoon_Childfundkorea_DaeHan.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Yoon_Childfundkorea_MinGuk'; /* Yoon 초록우산어린이 민국 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ChildFund/Yoon_Childfundkorea_MinGuk.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/ChildFund/Yoon_Childfundkorea_MinGuk.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Yoon_Childfundkorea_ManSeh'; /* Yoon 초록우산어린이 만세 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/ChildFund/Yoon_Childfundkorea_ManSeh.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/ChildFund/Yoon_Childfundkorea_ManSeh.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PT_Noeul_Light'; /* 평택노을체 Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongtaek-si/PT_Noeul_Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Pyeongtaek-si/PT_Noeul_Light.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PT_Noeul_Bold'; /* 평택노을체 Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongtaek-si/PT_Noeul_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Pyeongtaek-si/PT_Noeul_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PT_Bandoche_Regular'; /* 평택반도체 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongtaek-si/PT_Bandoche_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Pyeongtaek-si/PT_Bandoche_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PT_Bandoche_Bold'; /* 평택반도체 Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongtaek-si/PT_Bandoche_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Pyeongtaek-si/PT_Bandoche_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'PT_Anbo_Regular'; /* 평택안보체 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Pyeongtaek-si/PT_Anbo_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Pyeongtaek-si/PT_Anbo_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JNE_Ttobak_Extrabold'; /* 전남교육또박체 ExtraBold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/JNE/JNE_Ttobak_Extrabold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/JNE/JNE_Ttobak_Extrabold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JNE_Bareun_Light'; /* 전남교육바른체 Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/JNE/JNE_Bareun_Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/JNE/JNE_Bareun_Light.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JNE_Bareun'; /* 전남교육바른체 Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/JNE/JNE_Bareun.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/JNE/JNE_Bareun.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'JNE_Yuna'; /* 전남교육유나체 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/JNE/JNE_Yuna.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/JNE/JNE_Yuna.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Bobaesum_Jindo'; /* 보배섬진도체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Jin-do/Bobaesum_Jindo.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Jin-do/Bobaesum_Jindo.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Gumi_Dotum'; /* 구미돋움체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gumi-si/Gumi_Dotum.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gumi-si/Gumi_Dotum.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Gumi_Industry'; /* 구미첨단산업체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gumi-si/Gumi_Industry.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gumi-si/Gumi_Industry.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Gumi_Romance'; /* 낭만있구미체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gumi-si/Gumi_Romance.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gumi-si/Gumi_Romance.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'YeongamWolchulsan'; /* 영암월출산체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongam-gun/YeongamWolchulsan.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yeongam-gun/YeongamWolchulsan.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Mungyeong_Gamhong_Apple'; /* 문경 감홍사과체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Mungyeong-si/Mungyeong_Gamhong_Apple.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Mungyeong-si/Mungyeong_Gamhong_Apple.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Chilgok_Halmez'; /* 칠곡 할매즈 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Halmez.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Chilgok_gun/Chilgok_Halmez.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Chilgok_Kaj2_Regular'; /* 칠곡할매 권안자체2-Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Kaj2_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Chilgok_gun/Chilgok_Kaj2_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Chilgok_Kaj2_Bold'; /* 칠곡할매 권안자체2-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Kaj2_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Chilgok_gun/Chilgok_Kaj2_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Chilgok_Kyb2_Regular'; /* 칠곡할매 김영분체2-Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Kyb2_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Chilgok_gun/Chilgok_Kyb2_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Chilgok_Kyb2_Bold'; /* 칠곡할매 김영분체2-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Kyb2_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Chilgok_gun/Chilgok_Kyb2_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Chilgok_Lws2_Regular'; /* 칠곡할매 이원순체2-Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Lws2_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Chilgok_gun/Chilgok_Lws2_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Chilgok_Lws2_Bold'; /* 칠곡할매 이원순체2-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Lws2_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Chilgok_gun/Chilgok_Lws2_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Chilgok_Ljh2_Regular'; /* 칠곡할매 이종희체2-Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Ljh2_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Chilgok_gun/Chilgok_Ljh2_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Chilgok_Ljh2_Bold'; /* 칠곡할매 이종희체2-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Ljh2_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Chilgok_gun/Chilgok_Ljh2_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Chilgok_Cye2_Regular'; /* 칠곡할매 추유을체2-Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Cye2_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Chilgok_gun/Chilgok_Cye2_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Chilgok_Cye2_Bold'; /* 칠곡할매 추유을체2-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Chilgok_gun/Chilgok_Cye2_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Chilgok_gun/Chilgok_Cye2_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Peoplefirst_IL'; /* 피플퍼스트 자립 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Peoplefirst/Peoplefirst_IL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Peoplefirst/Peoplefirst_IL.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'KOROAD_Light'; /* KOROAD체 Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KOROAD/KOROAD_Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/KOROAD/KOROAD_Light.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'KOROAD_Medium'; /* KOROAD체 Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KOROAD/KOROAD_Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/KOROAD/KOROAD_Medium.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'KOROAD_Bold'; /* KOROAD체 Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KOROAD/KOROAD_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/KOROAD/KOROAD_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'ANDONG_264'; /* 안동 이육사체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Andong-si/ANDONG_264.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Andong-si/ANDONG_264.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Marines_Regular'; /* 무적해병체 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Marines/Marines_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Marines/Marines_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Marines_Bold'; /* 무적해병체 Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Marines/Marines_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Marines/Marines_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'DaeguCatholicUniversity'; /* 대구가톨릭대학체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/DCU/DaeguCatholicUniversity.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/DCU/DaeguCatholicUniversity.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SinchonRhapsody'; /* 신촌랩소디 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seodaemun-gu/SinchonRhapsody.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seodaemun-gu/SinchonRhapsody.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'DONGGUK_UNIVERSITY'; /* 동국체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/DGU/DONGGUK_UNIVERSITY.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/DGU/DONGGUK_UNIVERSITY.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SeoulAlrim_Medium'; /* 서울알림체-Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulAlrim_Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seoul-si/SeoulAlrim_Medium.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SeoulAlrim_Bold'; /* 서울알림체-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulAlrim_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seoul-si/SeoulAlrim_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SeoulAlrim_ExtraBold'; /* 서울알림체-ExtraBold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulAlrim_ExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seoul-si/SeoulAlrim_ExtraBold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SeoulAlrim_Heavy'; /* 서울알림체-Heavy */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Seoul-si/SeoulAlrim_Heavy.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Seoul-si/SeoulAlrim_Heavy.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Sacheon_Uju_Regular'; /* 사천우주-Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sacheon-si/Sacheon_Uju_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sacheon-si/Sacheon_Uju_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SacheonHangGong_Regular'; /* 사천항공-Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sacheon-si/SacheonHangGong_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sacheon-si/SacheonHangGong_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'EunpyeongSagaDogseo_Text'; /* 은평사가독서체_본문용 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Eunpyeong-gu/EunpyeongSagaDogseo_Text.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Eunpyeong-gu/EunpyeongSagaDogseo_Text.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'EunpyeongSagaDogseo_Title'; /* 은평사가독서체_제목용 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Eunpyeong-gu/EunpyeongSagaDogseo_Title.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Eunpyeong-gu/EunpyeongSagaDogseo_Title.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Skyblessing_Inje'; /* 하늘내린 인제체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Inje-gun/Skyblessing_Inje.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Inje-gun/Skyblessing_Inje.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Yeongwol_TTF'; /* 영월체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeongwol-gun/Yeongwol_TTF.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yeongwol-gun/Yeongwol_TTF.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Sumunjang_BodyL'; /* 경복궁 수문장_본문L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sumunjang/Sumunjang_BodyL.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sumunjang/Sumunjang_BodyL.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Sumunjang_BodyM'; /* 경복궁 수문장_본문M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sumunjang/Sumunjang_BodyM.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sumunjang/Sumunjang_BodyM.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Sumunjang_BodyB'; /* 경복궁 수문장_본문B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sumunjang/Sumunjang_BodyB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sumunjang/Sumunjang_BodyB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Sumunjang_TitleL'; /* 경복궁 수문장_제목L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sumunjang/Sumunjang_TitleL.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sumunjang/Sumunjang_TitleL.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Sumunjang_TitleM'; /* 경복궁 수문장_제목M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sumunjang/Sumunjang_TitleM.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sumunjang/Sumunjang_TitleM.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Sumunjang_TitleB'; /* 경복궁 수문장_제목B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sumunjang/Sumunjang_TitleB.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sumunjang/Sumunjang_TitleB.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Gwangbok_LeeEunSuk'; /* 광복 이은숙 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Gwangbok/Gwangbok_LeeEunSuk.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Gwangbok/Gwangbok_LeeEunSuk.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'NYJ_Unheo'; /* 남양주 운허체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Namyangju-si/NYJ_Unheo.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Namyangju-si/NYJ_Unheo.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'SejongJaeumiMoeumi-Color'; /* 세종자으미모으미 컬러 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Sejong-si/SejongJaeumiMoeumi-Color.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Sejong-si/SejongJaeumiMoeumi-Color.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'YeoncheonMisu'; /* 연천 미수체 R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeoncheon-gun/YeoncheonMisu.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yeoncheon-gun/YeoncheonMisu.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'YeoncheonHeomok'; /* 연천 허목체 R */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Yeoncheon-gun/YeoncheonHeomok.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Yeoncheon-gun/YeoncheonHeomok.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'ChangwonDangamRound'; /* 창원단감둥근 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Changwon-si/ChangwonDangamRound.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Changwon-si/ChangwonDangamRound.woff2') format('woff2');
+    font-display: swap;
 }
 
 
 @font-face {
     font-family: 'Daegu_Dongseongro_Bold'; /* 대구동성로 Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Daegujunggucheong/Daegu_Dongseongro_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Daegujunggucheong/Daegu_Dongseongro_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Daegu_Dongseongro_Regular'; /* 대구동성로 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Daegujunggucheong/Daegu_Dongseongro_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Daegujunggucheong/Daegu_Dongseongro_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Daegu_Bukseongro_ExtraBold'; /* 대구북성로 Extrabold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Daegujunggucheong/Daegu_Bukseongro_ExtraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Daegujunggucheong/Daegu_Bukseongro_ExtraBold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Daegu_Bukseongro_Light'; /* 대구북성로 Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Daegujunggucheong/Daegu_Bukseongro_Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Daegujunggucheong/Daegu_Bukseongro_Light.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'DaeguJunggu_Eubseong_Regular'; /* 대구중구읍성 Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Daegujunggucheong/DaeguJunggu_Eubseong_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Daegujunggucheong/DaeguJunggu_Eubseong_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MUNMAK_DALBANCHE'; /* 문막초_달반체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Munmakcho/MUNMAK_DALBANCHE.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Munmakcho/MUNMAK_DALBANCHE.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MUNMAK_BYEOLBANCHE'; /* 문막초_별반체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Munmakcho/MUNMAK_BYEOLBANCHE.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Munmakcho/MUNMAK_BYEOLBANCHE.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MUNMAK_HAEBANCHE'; /* 문막초_해반체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Munmakcho/MUNMAK_HAEBANCHE.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Munmakcho/MUNMAK_HAEBANCHE.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'HiKR_ExraBold'; /* 하이커-ExtraBold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/KTO/HiKR_ExraBold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/KTO/HiKR_ExraBold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Wonju_TTF_Bold'; /* 원주체TTF Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wonju-si/Wonju_TTF_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Wonju-si/Wonju_TTF_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Wonju_TTF_Regular'; /* 원주체TTF Regular */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Wonju-si/Wonju_TTF_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Wonju-si/Wonju_TTF_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MalmoiChe_Bold'; /* 말모이체-Bold */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/hangeul/MalmoiChe_Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/hangeul/MalmoiChe_Bold.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MalmoiChe_Light'; /* 말모이체-Light */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/hangeul/MalmoiChe_Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/hangeul/MalmoiChe_Light.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'MalmoiChe_Medium'; /* 말모이체-Medium */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/hangeul/MalmoiChe_Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/hangeul/MalmoiChe_Medium.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'busangyoyukdahamkkegoeun'; /* 부산교육다함께고은체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/PEN/busangyoyukdahamkkegoeun.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/PEN/busangyoyukdahamkkegoeun.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Ownglyph_beomjun_Regular'; /* 온글잎 범준필기체 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/PEN/Ownglyph_beomjun_Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/PEN/Ownglyph_beomjun_Regular.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'BusanDandiGothicB'; /* 부산단디고딕B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanDandiGothicB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Busan-si/BusanDandiGothicB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'BusanDandiGothicL'; /* 부산단디고딕L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanDandiGothicL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Busan-si/BusanDandiGothicL.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'BusanDandiGothicM'; /* 부산단디고딕M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanDandiGothicM.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Busan-si/BusanDandiGothicM.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'BusanDandiMyeongjoB'; /* 부산단디명조B */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanDandiMyeongjoB.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Busan-si/BusanDandiMyeongjoB.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'BusanDandiMyeongjoL'; /* 부산단디명조L */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanDandiMyeongjoL.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Busan-si/BusanDandiMyeongjoL.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'BusanDandiMyeongjoM'; /* 부산단디명조M */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanDandiMyeongjoM.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Busan-si/BusanDandiMyeongjoM.woff2') format('woff2');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'BusanDandiScript'; /* 부산단디손글씨 */
-    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts/Busan-si/BusanDandiScript.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Wheelman-v2/Public_institution_Fonts@main/Busan-si/BusanDandiScript.woff2') format('woff2');
+    font-display: swap;
 }
 
